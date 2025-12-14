@@ -1,0 +1,2832 @@
+[
+    {
+        "book_code": "GEN",
+        "book_name": "Pradžios",
+        "category": "Eski Ahit",
+        "language": "lt",
+        "chapters": [
+            {
+                "chapter_number": 1,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Pradžioje Dievas sukūrė dangus ir žemę."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir žemė buvo be pavidalo ir tuščia ir tamsa [buvo] virš gelmės paviršiaus. Ir Dievo Dvasia sklandė virš vandenų paviršiaus."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "¶ Ir Dievas tarė: „Tegul atsiranda šviesa!“ Ir atsirado šviesa."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir Dievas matė šviesą, kad [ji] gera, ir Dievas atskyrė šviesą nuo tamsos."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "¶ Ir Dievas pavadino šviesą diena, o tamsą jis pavadino naktimi. Ir buvo vakaras ir buvo rytas – pirmoji diena."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir Dievas tarė: „Tegul atsiranda skliautinė platybė tarp vandenų, ir ji tegul atskiria vandenis nuo vandenų.“"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir Dievas padarė skliautinę platybę ir atskyrė vandenis, kurie [buvo] po skliautine platybe, nuo vandenų, kurie [buvo] virš skliautinės platybės. Taip ir įvyko."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir Dievas pavadino skliautinę platybę dangumis. Ir buvo vakaras ir buvo rytas – antroji diena."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "¶ Ir Dievas tarė: „Tegul susirenka vandenys, kurie yra po dangumis, į vieną vietą ir tegul pasirodo sausuma.“ Taip ir įvyko."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir Dievas pavadino sausumą žeme, o vandenų samplūdį jis pavadino jūromis. Ir Dievas matė, kad [tai buvo] gera."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Ir Dievas tarė: „Tegul žemė išželdina žemėje augmeniją, augalus, duodančius sėklą, vaismedžius, pagal savo rūšį vedančius vaisius, kuriuose [yra] jų sėkla.“ Taip ir įvyko."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir žemė išvedė augmeniją, augalus, duodančius sėklą pagal savo rūšį, ir medžius, pagal savo rūšį vedančius vaisius, kuriuose [yra] jų sėkla. Ir Dievas matė, kad [tai buvo] gera."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir buvo vakaras ir buvo rytas – trečioji diena."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "¶ Ir Dievas tarė: „Tegul atsiranda šviesuliai dangaus skliautinėje platybėje dienai nuo nakties atskirti. Ir jie tegul būna kaip ženklai, pažymintys ir nustatytus laikus, ir dienas ir metus,"
+                    },
+                    {
+                        "verse": 15,
+                        "text": "ir jie tegul būna kaip šviesuliai dangaus skliautinėje platybėje, kad apšviestų žemę.“ Taip ir įvyko."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir Dievas padarė du didžiuosius šviesulius – didesnįjį šviesulį dienai valdyti ir mažesnįjį šviesulį nakčiai valdyti; [jis padarė] ir žvaigždes."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir Dievas įdėjo juos į dangaus skliautinę platybę, kad apšviestų žemę"
+                    },
+                    {
+                        "verse": 18,
+                        "text": "ir valdytų dieną bei naktį, ir atskirtų šviesą nuo tamsos. Ir Dievas matė, kad [tai buvo] gera."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir buvo vakaras ir buvo rytas – ketvirtoji diena."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "¶ Ir Dievas tarė: „Tegul vandenys veisia knibždančių gyvų padarų, ir tegul viršum žemės skraido paukščiai dangaus skliautinės platybės matomos dalies priekyje.“"
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Ir Dievas sukūrė didžiulius baisūnus ir visus judančius gyvus padarus, kuriuos veisė vandenys pagal jų rūšį, ir kiekvieną sparnuotą paukštį pagal jo rūšį. Ir Dievas matė, kad [tai buvo] gera."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Ir Dievas juos palaimino, tardamas: „Būkite vaisingi ir dauginkitės, ir pripildykite vandenis jūrose, o paukščiai tegul dauginasi žemėje!“"
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Ir buvo vakaras ir buvo rytas – penktoji diena."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "¶ Ir Dievas tarė: „Tegul žemė išveda gyvų padarų pagal jų rūšis – gyvulių, ir ropojančių padarų ir laukinių žvėrių pagal jų rūšis.“ Taip ir įvyko."
+                    },
+                    {
+                        "verse": 25,
+                        "text": "Ir Dievas padarė žemės laukinius žvėris pagal jų rūšis ir gyvulius pagal jų rūšis, ir prie dirvos ropojančius padarus pagal jų rūšis. Ir Dievas matė, kad [tai buvo] gera."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "¶ Ir Dievas tarė: „Padarykime žmogų, atitinkantį mūsų atvaizdą, pagal mūsų panašumą, ir tegul jie valdo jūros žuvis, ir padangių paukščius, ir gyvulius, ir visą žemę, ir visus ropojančius padarus, kurie juda ant žemės.“"
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Taigi Dievas sukūrė žmogų pagal savo atvaizdą, pagal Dievo atvaizdą jis sukūrė jį; vyriškos lyties ir moteriškos lyties jis juos sukūrė."
+                    },
+                    {
+                        "verse": 28,
+                        "text": "Ir Dievas juos palaimino, ir Dievas jiems tarė: „Būkite vaisingi ir dauginkitės ir pripildykite žemę ir užvaldykite ją; ir valdykite jūros žuvis, padangių paukščius ir kiekvieną gyvą padarą, kuris juda ant žemės.“"
+                    },
+                    {
+                        "verse": 29,
+                        "text": "¶ Ir Dievas tarė: „Štai aš duodu jums kiekvieną sėklą duodantį augalą, kuris [yra] ant visos žemės paviršiaus, ir visokį medį, kuriame [yra] medžio vaisius, duodantis sėklą; tai bus jums maistas."
+                    },
+                    {
+                        "verse": 30,
+                        "text": "O visiems žemės laukiniams žvėrims, visiems padangių paukščiams ir visiems [gyvūnams], judantiems ant žemės, [turintiems] savyje gyvasties esmę, [duodu] visokius žalius augalus kaip maistą. Taip ir įvyko."
+                    },
+                    {
+                        "verse": 31,
+                        "text": "¶ Ir Dievas matė visa, ką buvo padaręs, ir štai, [tai buvo] labai gera. Ir buvo vakaras ir buvo rytas – šeštoji diena."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 2,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Taip buvo pabaigti dangūs ir žemė, ir visa jų aibė."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Tai iki septintos dienos Dievas užbaigė savo darbą, kurį jis padarė, ir ilsėjosi septintą dieną nuo viso savo darbo, kurį jis padarė."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir Dievas palaimino septintąją dieną ir ją pašventino, nes joje jis ilsėjosi nuo viso savo darbo, kurį Dievas kūrybingai padarė."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "¶ Šitie [yra] dangų ir žemės kilmės istorijos duomenys jų sukūrimo metu, – tą dieną, kurią VIEŠPATS Dievas padarė žemę ir dangus,"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "ir jokio laukinio krūmo dar nebuvo žemėje ir joks lauko augalas dar neaugo (nes VIEŠPATS Dievas dar nebuvo siuntęs į žemę lietaus ir nebuvo žmogaus dirvai įdirbti,"
+                    },
+                    {
+                        "verse": 6,
+                        "text": "tik migla kildavo nuo žemės ir drėkindavo visą dirvos paviršių)."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "¶ Ir VIEŠPATS Dievas supavidalino žmogų iš dirvos dulkių ir įkvėpė į jo šnerves gyvybės dvasią, ir žmogus tapo gyva siela."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "¶ Ir VIEŠPATS Dievas įveisė sodą Edene, rytuose, ir ten jis apgyvendino žmogų, kurį buvo supavidalinęs."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Ir VIEŠPATS Dievas išaugino iš dirvos visokius medžius, mielus pasižiūrėti ir gerus maistui, taip pat gyvybės medį sodo viduryje ir gėrio bei blogio pažinimo medį."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "¶ Ir iš Edeno upė tekėjo sodui drėkinti, o nuo ten ji šakojosi ir tapo keturiomis pagrindinėmis [upėmis]."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Pirmosios vardas – Pišonas. Ji [yra] ta, kuri apsupa visą Havilos šalį, kur [yra] aukso."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "O tos šalies auksas [yra] geras. Ten yra bdelio ir onikso akmens."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir antrosios upės vardas – Gihonas. Ji [yra] ta, kuri apsupa visą Kušo šalį."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir trečiosios upės vardas – Hidekelis. Ji [yra] ta, kuri teka prie Asirijos rytų. Ir ketvirtoji upė, – ji [yra] Eufratas."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "¶ Ir VIEŠPATS Dievas paėmė žmogų ir įkurdino jį Edeno sode, kad jį įdirbtų ir saugotų."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir VIEŠPATS Dievas įsakė žmogui, tardamas: „Nuo kiekvieno sodo medžio tau leista laisvai valgyti,"
+                    },
+                    {
+                        "verse": 17,
+                        "text": "bet nuo gėrio bei blogio pažinimo medžio – nevalgyk nuo jo, nes tą dieną, kurią nuo jo valgysi, tikrai mirsi.“"
+                    },
+                    {
+                        "verse": 18,
+                        "text": "¶ Ir VIEŠPATS Dievas tarė: „Negera žmogui būti vienam; jam padarysiu atitinkančią pagalbininkę.“"
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir VIEŠPATS Dievas iš dirvos supavidalino visus lauko žvėris ir visus padangių paukščius ir atvedė [juos] pas Adomą pamatyti, kaip jis juos pavadins; ir kuo tik Adomas pavadino kiekvieną gyvūną, toks ir [buvo] jo vardas."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Ir Adomas davė vardus visiems gyvuliams ir padangių paukščiams, ir visiems lauko žvėrims, tačiau Adomui nebuvo rasta atitinkančio pagalbininko."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "¶ Ir VIEŠPATS Dievas užmigdė Adomą giliu miegu ir, jam miegant, išėmė vieną jo šonkaulių, ir jo vietą užpildė kūnu."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "O VIEŠPATS Dievas [iš] šonkaulio, kurį buvo išėmęs iš žmogaus, sudarė moterį ir atvedė ją pas žmogų."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Ir Adomas tarė: „Pagaliau! Ši [yra] kaulas iš mano kaulų ir kūnas iš mano kūno! Ji bus vadinama moterimi, nes iš vyro ji buvo paimta.“"
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Dėl tos priežasties vyras paliks savo tėvą bei savo motiną ir liks sujungtas su savo žmona, ir juodu taps vienu kūnu."
+                    },
+                    {
+                        "verse": 25,
+                        "text": "Jie abu – žmogus ir jo žmona – buvo nuogi ir jie nesigėdijo."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 3,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ O gyvatė buvo gudresnė už visus lauko žvėris, kuriuos VIEŠPATS Dievas buvo padaręs. Ir ji tarė moteriai: „Ar tikrai Dievas pasakė: ‚Nevalgykite nuo visų sodo medžių‘?“"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir moteris tarė gyvatei: „Mums leista valgyti sodo medžių vaisių,"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "bet apie vaisių medžio, kuris [yra] sodo viduryje, Dievas tarė: ‚Nevalgykite nuo jo ir nelieskite jo, kad nemirtumėte‘.“"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir gyvatė tarė moteriai: „Jūs tikrai nemirsite,"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "nes Dievas žino, kad tą dieną, kai valgysite nuo jo, atsivers jūsų akys, ir jūs būsite kaip dievai, pažindami gėrį ir blogį.“"
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir kai moteris pamatė, kad medis [buvo] geras maistui ir kad jis žavus akims, ir kad medis pageidaujamas – galintis padaryti [žmogų] išmintingą, ji paėmė jo vaisiaus ir valgė, ir taip pat davė savo vyrui, esančiam su ja, ir jis valgė."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir atsivėrė jų abiejų akys, ir jie suprato esą nuogi; ir jie susiuvo figmedžio lapus ir sau padarė prijuostes."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir jie išgirdo balsą VIEŠPATIES Dievo, vaikštančio sode, dienos atvėsimo metu; ir Adomas ir jo žmona pasislėpė nuo VIEŠPATIES Dievo akivaizdos tarp sodo medžių."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "¶ Ir VIEŠPATS Dievas pašaukė Adomą ir jam tarė: „Kur tu?“"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir jis tarė: „Aš išgirdau tavo balsą sode ir bijojau, nes aš nuogas; todėl pasislėpiau.“"
+                    },
+                    {
+                        "verse": 11,
+                        "text": "¶ Ir jis tarė: „Kas tau pasakė, kad tu nuogas? Ar valgei nuo medžio, nuo kurio tau įsakiau nevalgyti?“"
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir žmogus tarė: „Moteris, kurią davei, [kad būtų] su manimi, ji davė man nuo to medžio, ir aš valgiau.“"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir VIEŠPATS Dievas tarė moteriai: „Kas gi tai, ką tu padarei?“ Ir moteris tarė: „Gyvatė mane apgavo, ir aš valgiau.“"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "¶ Ir VIEŠPATS Dievas tarė gyvatei: „Kadangi tai padarei, tu [esi] labiau prakeikta už visus gyvulius ir už visus lauko žvėris; ant savo pilvo turėsi šliaužti ir dulkes ėsti per visas savo gyvenimo dienas;"
+                    },
+                    {
+                        "verse": 15,
+                        "text": "ir aš sukelsiu priešiškumą tarp tavęs bei moters ir tarp tavo sėklos bei moters Sėklos; jis – [moters Sėkla] – triuškins tau galvą, o tu triuškinsi jam kulnį.“"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "¶ Moteriai jis tarė: „Aš didžiai padauginsiu tavo nėštumo vargą – skausmingai tu gimdysi vaikus; ir tavo potraukis [bus nukreiptas] į tavo vyrą, ir jis tave valdys.“"
+                    },
+                    {
+                        "verse": 17,
+                        "text": "¶ Ir Adomui jis tarė: „Kadangi paklausei savo žmonos balso ir valgei nuo medžio, apie kurį aš tau įsakiau, sakydamas: „Nevalgyk nuo jo!“ – prakeikta [yra] dirva dėl tavęs; vargdamas maitinsiesi iš jos per visas savo gyvenimo dienas"
+                    },
+                    {
+                        "verse": 18,
+                        "text": "ir erškėčius bei usnis ji tau želdins, ir tu maitinsiesi lauko augmenija."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Savo veido prakaitu turėsi valgyti duoną, kol sugrįši į dirvą, nes iš jos buvai paimtas; nes tu [esi] dulkė, ir į dulkę sugrįši.“"
+                    },
+                    {
+                        "verse": 20,
+                        "text": "¶ Ir Adomas pavadino savo žmoną vardu Ieva, nes ji buvo visų gyvųjų motina."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "¶ Ir VIEŠPATS Dievas Adomui ir jo žmonai padarė odinius drabužius ir juos aprengė."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "¶ Ir VIEŠPATS Dievas tarė: „Štai žmogus tapo kaip vienas iš mūsų, pažindamas gėrį ir blogį, o dabar, kad jis neištiestų savo rankos ir nepaimtų nuo gyvybės medžio, ir nevalgytų, ir negyventų per amžius!“"
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Todėl VIEŠPATS Dievas išsiuntė jį iš Edeno sodo įdirbti dirvą, iš kurios jis buvo paimtas."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Taigi jis išvarė žmogų, ir į rytus nuo Edeno sodo pastatė kerubus ir besisukiojantį liepsningą kalaviją, kad saugotų kelią į gyvybės medį."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 4,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir Adomas pažino savo žmoną Ievą, ir ji tapo nėščia ir pagimdė Kainą, ir tarė: „Gavau vyriškos lyties žmogų nuo VIEŠPATIES.“"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir dar kartą ji pagimdė – [šįkart] jo brolį Abelį. Ir Abelis buvo avių piemuo, o Kainas buvo žemdirbys."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "¶ Ir taip įvyko, kad, kuriam laikui praslinkus, Kainas atnešė auką VIEŠPAČIUI iš dirvos vaisiaus."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Taip pat atnešė ir Abelis – [bet] iš savo kaimenės pirmagimių ir iš jų taukų. Ir VIEŠPATS palankiai pažvelgė į Abelį ir į jo auką,"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "tačiau į Kainą ir į jo auką jis palankiai nepažvelgė. Ir Kainas labai supyko, ir jo veidas paniuro."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir VIEŠPATS tarė Kainui: „Kodėl tu supykai ir kodėl tavo veidas paniuro?"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Jeigu tu darysi gera, argi nebūsi priimtas? O jeigu nedarysi gera, nuodėmė pritupia prie durų. Ir tau [bus nukreiptas] jos potraukis, bet tu privalai ją suvaldyti.“"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "¶ Ir Kainas kalbėjo savo broliui Abeliui; ir taip įvyko, kad jiems esant laukuose, Kainas pakilo prieš savo brolį Abelį ir jį užmušė."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "¶ Ir VIEŠPATS tarė Kainui: „Kur tavo brolis Abelis?“ Ir jis tarė: „Nežinau! Argi aš savo brolio sargas?“"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir anas tarė: „Ką tu padarei? Iš dirvos šaukiasi manęs tavo brolio kraujo balsas!"
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Taigi dabar tu [esi] prakeiktas nuo dirvos, kuri atvėrė savo burną priimti tavo brolio kraują iš tavo rankos."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Kai dirbsi dirvą, ji nuo šiol tau nebeduos savo gero derliaus; tu būsi bėglys ir klajūnas žemėje.“"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "¶ Ir Kainas tarė VIEŠPAČIUI: „Mano bausmė didesnė nei aš galiu pakelti!"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Štai šiandien mane išvarei nuo dirvos paviršiaus, ir turėsiu nuo tavo veido slėptis, ir būsiu bėglys ir klajūnas žemėje; ir taip įvyks, kad kas tik mane sutiks, mane užmuš.“"
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Bet VIEŠPATS jam tarė: „Taigi, kas tik užmuštų Kainą, tam septyneriopai bus atkeršyta. Ir VIEŠPATS davė Kainui ženklą, kad kas nors, jį užtikęs, jo nenužudytų.“"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "¶ Ir Kainas pasitraukė nuo VIEŠPATIES akivaizdos ir apsigyveno Nodo šalyje, į rytus nuo Edeno."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "¶ Paskui Kainas pažino savo žmoną, ir ji tapo nėščia ir pagimdė Henochą. Ir jis pastatė miestą, ir pavadino miestą savo sūnaus vardu – Henochas."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "O Henochui gimė Iradas, o Iradas pagimdė Mehujaelį, o Mehujaelis pagimdė Metušaelį, o Metušaelis pagimdė Lamechą."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "¶ O Lamechas ėmė sau dvi žmonas. Vienos vardas [buvo] Ada, o kitos vardas Cila."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "O Ada pagimdė Jabalą. Jis buvo tėvas tokių, kurie gyvena palapinėse, ir [tokių, kurie turi] galvijų."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "O jo brolio vardas [buvo] Jubalas. Jis buvo tėvas visų tokių, kurie groja lyra ir fleita."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "O Cila, ji taip pat pagimdė Tubal Kainą, visų bronzos / žalvario ir geležies kalvių mokytoją. O Tubal-Kaino sesuo [buvo] Naama."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "¶ Ir Lamechas tarė savo žmonoms: „Ada ir Cila, išgirskite mano balsą! Lamecho žmonos, klausykitės mano kalbos! Juk užmušiau vyrą už man padarytą žaizdą, bernioką už man padarytą sužalojimą."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Jei už Kainą bus atkeršyta septyneriopai, tai už Lamechą septyniasdešimt septynis kartus!“"
+                    },
+                    {
+                        "verse": 25,
+                        "text": "¶ Ir Adomas vėl pažino savo žmoną ir ji pagimdė sūnų ir pavadino jį vardu Setas; „Nes Dievas, – [ji sakė], – man paskyrė kitą sėklą vietoje Abelio, kurį Kainas užmušė."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "O Setui – jam irgi gimė sūnus, ir jis pavadino jį vardu Enošas. Tuo metu žmonės pradėjo šauktis VIEŠPATIES vardo."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 5,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Šita [yra] Adomo šeimos istorijos duomenų knyga. Tą dieną, kai Dievas sukūrė žmogų, jis padarė jį, [turintį] panašumų į Dievą;"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "vyriškos lyties ir moteriškos lyties sukūrė jis juos; ir jis palaimino juos ir pavadino juos vardu Adomas tą dieną, kai jie buvo sukurti."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "¶ Ir Adomas pragyveno šimtą trisdešimt metų ir pagimdė [sūnų] pagal savo panašumą, atitinkantį savo atvaizdą, ir jis pavadino jį vardu Setas."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir Adomo dienos po to, kai pagimdė Setą, sudarė aštuonis šimtus metų, ir jis pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Taigi visos Adomo dienos, kurias jis gyveno, sudarė devynis šimtus trisdešimt metų, ir jis mirė."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir Setas pragyveno šimtą penkerius metus ir pagimdė Enošą."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir Setas, po to, kai pagimdė Enošą, pragyveno aštuonis šimtus septynerius metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Taigi visos Seto dienos sudarė devynis šimtus dvylika metų, ir jis mirė."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "¶ Ir Enošas pragyveno devyniasdešimt metų ir pagimdė Kenaną."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir Enošas, po to, kai pagimdė Kenaną, pragyveno aštuonis šimtus penkiolika metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Taigi visos Enošo dienos sudarė devynis šimtus penkerius metus, ir jis mirė."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "¶ Ir Kenanas pragyveno septyniasdešimt metų ir pagimdė Mahalalelį."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir Kenanas, po to, kai pagimdė Mahalalelį, pragyveno aštuonis šimtus keturiasdešimt metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Taigi visos Kenano dienos sudarė devynis šimtus dešimt metų, ir jis mirė."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "¶ Ir Mahalalelis pragyveno šešiasdešimt penkerius metus ir pagimdė Jeredą."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir Mahalalelis, po to, kai pagimdė Jeredą, pragyveno aštuonis šimtus trisdešimt metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Taigi visos Mahalalelio dienos sudarė aštuonis šimtus devyniasdešimt penkerius metus, ir jis mirė."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "¶ Ir Jeredas pragyveno šimtą šešiasdešimt dvejus metus ir pagimdė Henochą."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir Jeredas, po to, kai pagimdė Henochą, pragyveno aštuonis šimtus metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Taigi visos Jeredo dienos sudarė devynis šimtus šešiasdešimt dvejus metus, ir jis mirė."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "¶ Ir Henochas pragyveno šešiasdešimt penkerius metus ir pagimdė Metušelachą."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Ir Henochas, po to, kai pagimdė Metušelachą, vaikščiojo su Dievu tris šimtus metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Taigi visos Henocho dienos sudarė tris šimtus šešiasdešimt penkerius metus."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Ir Henochas vaikščiojo su Dievu, paskui jo nebebuvo, nes Dievas jį pasiėmė."
+                    },
+                    {
+                        "verse": 25,
+                        "text": "¶ Ir Metušelachas pragyveno šimtą aštuoniasdešimt septynerius metus ir pagimdė Lamechą."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "Ir Metušelachas, po to, kai pagimdė Lamechą, pragyveno septynis šimtus aštuoniasdešimt dvejus metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Taigi visos Metušelacho dienos sudarė devynis šimtus šešiasdešimt devynerius metus, ir jis mirė."
+                    },
+                    {
+                        "verse": 28,
+                        "text": "¶ Ir Lamechas pragyveno šimtą aštuoniasdešimt dvejus metus ir pagimdė sūnų,"
+                    },
+                    {
+                        "verse": 29,
+                        "text": "ir pavadino jį vardu Nojus, sakydamas: „Šitas suteiks mums paguodos nuo mūsų darbo ir nuo mūsų rankų vargo dėl dirvos, kurią VIEŠPATS prakeikė.“"
+                    },
+                    {
+                        "verse": 30,
+                        "text": "Ir Lamechas, po to, kai pagimdė Nojų, pragyveno penkis šimtus devyniasdešimt penkerius metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 31,
+                        "text": "Taigi visos Lamecho dienos sudarė septynis šimtus septyniasdešimt septynerius metus, ir jis mirė."
+                    },
+                    {
+                        "verse": 32,
+                        "text": "¶ Ir Nojus buvo penkių šimtų metų, ir jis pagimdė Semą, Chamą ir Jafetą."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 6,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir įvyko, kai žmonių pradėjo daugėti žemės paviršiuje ir jiems gimė dukterų,"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "kad Dievo sūnūs matė žmonių dukteris, kad jos gražios, ir ėmė sau į žmonas iš visų, kurias jie išsirinko."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "¶ Ir VIEŠPATS tarė: „Mano Dvasia nesivaidys su žmogumi amžinai, nes jis [yra] ir kūniškas. Vis dėlto jo dienų bus šimtas dvidešimt metų."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Anomis dienomis žemėje buvo milžinų, – taip pat vėliau, kai Dievo sūnūs įeidavo pas žmonių dukteris ir jos gimdydavo jiems [vaikų]. Tie [buvo] senovės galiūnai, garsūs vyrai."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "¶ Ir VIEŠPATS matė, kad žmogaus blogumas žemėje [buvo] gausus, ir [kad] kiekvienas jo širdies minčių siekimas visuomet [buvo] tik blogas."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Ir gailėjosi VIEŠPATS, kad jis žemėje sukūrė žmogų, ir jam gėlė širdį."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir VIEŠPATS tarė: „Aš pragaišinsiu žmogų, kurį sukūriau, nuo žemės paviršiaus, – nuo žmogaus iki gyvulio, iki ropojančio padaro, iki padangių paukščio, – nes gailiuosi juos padaręs.“"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Tačiau Nojus rado malonę VIEŠPATIES akyse."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "¶ Šitie [yra] Nojaus šeimos istorijos duomenys: Nojus buvo teisus žmogus, jis buvo nepriekaištingas tarp savo amžininkų; Nojus vaikščiojo su Dievu."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir Nojus pagimdė tris sūnus: Semą, Chamą ir Jafetą."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "¶ Bet žemė buvo sugedusi Dievo akyse, ir žemė buvo pripildyta smurto."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir Dievas matė žemę, ir štai ji buvo sugedusi, nes žemėje sugadino savo kelius kiekviena kūną turinti būtybė."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "¶ Ir Dievas tarė Nojui: „Kiekvienos kūną turinčios būtybės galas yra atėjęs mano akivaizdon, nes per juos žemė pasidarė pilna smurto. Ir štai pragaišinsiu juos drauge su žeme."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "¶ Pasidaryk arką iš gofero medžio; arkoje padaryk kambarių ir padenk ją derva iš vidaus ir iš lauko."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Ir štai kaip tu turi ją padaryti: arkos ilgis [turi būti] trys šimtai uolekčių, jos plotis – penkiasdešimt uolekčių, ir jos aukštis – trisdešimt uolekčių."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Padaryk šviesos angą arkai, ir užbaik ją per uolektį nuo viršaus; taip pat arkos [vieninteles] duris įstatyk jos šone; padaryk ją [su] apatiniu, antru ir trečiu [aukštu]."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "¶ Ir aš, štai aš ruošiuosi siųsti vandenų tvaną ant žemės pragaišinti po dangumi kiekvieną kūną turinčią būtybę, kurioje [yra] gyvybės kvėpavimas; visa, kas [yra] žemėje, pražus."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Bet su tavimi aš tvirtinsiu savo sandorą: tu įeisi į arką, tu ir tavo sūnūs, ir tavo žmona, ir tavo sūnų žmonos su tavimi."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir iš kiekvieno gyvo padaro iš visų kūną turinčių būtybių, tu turi priversti patekti į arką po du iš kiekvienos [rūšies], kad išlaikytum [juos] gyvus su savimi; jie turi būti patinas ir patelė."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Kad išliktų gyvi, turės patekti pas tave po du iš kiekvienos rūšies, – iš paukščių pagal jų rūšis ir iš gyvulių pagal jų rūšis, iš visų žemės ropojančių padarų pagal jų rūšis."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Taip pat pasiimk visokio valgomo maisto ir susikrauk pas save. Ir tai bus maistas tau ir jiems.“"
+                    },
+                    {
+                        "verse": 22,
+                        "text": "¶ Ir Nojus padarė pagal visa, ką Dievas buvo jam įsakęs, – būtent taip padarė."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 7,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS tarė Nojui: „Įeik į arką tu ir visi tavo namiškiai, nes šioje kartoje mačiau tave [esant] teisų prieš mane."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Pasiimk iš visų švariųjų gyvulių septynis ir septynias ([po] patiną ir jo patelę), ir iš gyvulių, kurie nešvarūs, [pasiimk] du ([po] patiną ir jo patelę),"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "taip pat iš padangės paukščių septynis [ir] septynias ([po] patiną ir patelę), kad atžala būtų išlaikyta gyva ant visos žemės paviršiaus."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Nes dar septynios dienos, ir aš siųsiu žemėn lietų keturiasdešimčiai dienų ir keturiasdešimčiai naktų ir pražudysiu nuo žemės paviršiaus visas būtybes, kurias esu padaręs.“"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "¶ Ir Nojus padarė pagal visa, ką VIEŠPATS buvo jam įsakęs."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir Nojus buvo šešių šimtų metų, kai vandenų tvanas užliejo žemę."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "¶ Ir Nojus ir jo sūnūs, ir jo žmona, ir jo sūnų žmonos įėjo su juo į arką dėl tvano vandenų."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Iš švariųjų gyvulių ir iš gyvulių, kurie nešvarūs, ir iš paukščių, ir iš visų [gyvūnų], judančių ant žemės,"
+                    },
+                    {
+                        "verse": 9,
+                        "text": "po du, patinas ir patelė, įėjo pas Nojų į arką, kaip Dievas buvo Nojui įsakęs."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "¶ Ir taip įvyko po septynių dienų, kad tvano vandenys atsirado ant žemės."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "¶ Šeši šimtaisiais Nojaus gyvenimo metais, antrąjį mėnesį, septynioliktąją to mėnesio dieną, – tą dieną pratrūko visi didžiosios gelmės šaltiniai, ir dangaus langai atsidarė."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir lietus lijo ant žemės keturiasdešimt dienų ir keturiasdešimt naktų."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "¶ Tą pačią dieną įėjo į arką Nojus ir Nojaus sūnūs Semas, Chamas, bei Jafetas, taip pat su jais Nojaus žmona ir trys jo sūnų žmonos, –"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "jie ir visokie žvėrys pagal jų rūšį, ir visokie galvijai pagal jų rūšį, ir visokie ropojantys [padarai], kurie juda ant žemės, pagal jų rūšį, ir visokie paukščiai pagal jų rūšį – visi visokių sparnų paukšteliai."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Ir jie įėjo pas Nojų į arką, po du iš visų kūną turinčių būtybių, kuriose [yra] gyvybės kvėpavimas."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir kurie įėjo, įėjo patinas ir patelė iš kiekvieno kūno [rūšies], kaip Dievas jam buvo įsakęs; ir VIEŠPATS už jo uždarė [duris]."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "¶ Ir tvanas žemėje tęsėsi keturiasdešimt dienų; ir vandenys daugėjo ir pakėlė arką, ir ji pakilo aukštai viršum žemės."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Ir vandenys pritvino ir labai padaugėjo ant žemės, o arka plūduriavo ant vandenų paviršiaus."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Tai vandenys labai labai pritvino ant žemės, ir visi aukštieji kalnai, [esantys] po visu dangumi, buvo apsemti."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Pritvino vandenų penkiolika uolekčių aukščiau, ir buvo apsemti kalnai."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Ir žuvo visos kūną turinčios būtybės, kurios judėjo ant žemės: paukščiai ir galvijai ir žvėrys ir visi knibždantys [padarai], kurie knibžda ant žemės, ir visi žmonės."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Visi, kurie tik buvo sausumoje, kurių šnervėse [buvo] gyvybės dvasios alsavimas, mirė."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Taip jis pragaišino visas būtybes, [buvusias] dirvos paviršiuje – nuo žmogaus iki gyvulio, iki ropojančio padaro, iki padangės paukščio. Jie juk buvo pragaišinti nuo žemės, o išliko tik Nojus ir tie, kurie [buvo] su juo arkoje."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Pritvino vandenų ant žemės šimtą penkiasdešimt dienų."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 8,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir Dievas atsiminė Nojų ir visus gyvus padarus bei visus gyvulius, kurie buvo su juo arkoje; ir Dievas siuntė vėją pūsti virš žemės, ir vandenys atslūgo."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Be to, gelmės šaltiniai ir dangaus langai buvo uždaryti ir buvo sulaikytas lietus iš dangaus,"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "ir vandenys vis traukėsi atgal nuo žemės, o pasibaigus šimtui penkiasdešimčiai dienų, vandenys nuslūgo."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "¶ Ir septintą mėnesį, septynioliktąją to mėnesio dieną, arka nusėdo ant Ararato kalnų."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir vandenys vis slūgo iki dešimtojo mėnesio. Dešimtąjį [mėnesį], to mėnesio pirmąją [dieną], pasirodė kalnų viršūnės."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Taip įvyko, kad pasibaigus keturiasdešimčiai dienų, Nojus atidarė arkos langą, kurį buvo įtaisęs,"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "ir išleido varną, kuris išlėkė – [tai] išskrisdavo, tai parskrisdavo, kol žemėje nudžiuvo vandenys."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Taip pat jis išleido nuo savęs balandį pažiūrėti, ar vandenys buvo nusekę žemės paviršiuje."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "¶ Ir įvyko šeši šimtai pirmaisiais metais, pirmąjį [mėnesį], pirmąją to mėnesio [dieną], kad vandenys buvo nudžiuvę žemėje. Ir Nojus nukėlė arkos dangtį ir pasižiūrėjo, ir štai dirvos paviršius buvo sausas."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir antrąjį mėnesį, dvidešimt septintąją to mėnesio dieną, žemė buvo sausa."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "¶ Tada Dievas kalbėjo Nojui, sakydamas:"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "„Išeik iš arkos tu ir tavo žmona, ir tavo sūnūs, ir tavo sūnų žmonos su tavimi."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Išvesk su savimi visus gyvus padarus, esančius su tavimi, iš visų kūną turinčių būtybių, [tiek] iš paukščių, tiek iš gyvulių, tiek iš visų ropojančių padarų, kurie juda ant žemės, kad jie gausiai veistųsi žemėje ir būtų vaisingi, ir daugintųsi žemėje."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 9,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir Dievas palaimino Nojų bei jo sūnus ir jiems tarė: „Būkite vaisingi ir dauginkitės ir pripildykite žemę."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir bijos jūsų ir baidysis jūsų visi žemės laukiniai žvėrys ir visi padangių paukščiai; jie yra atiduoti į jūsų ranką drauge su visais, kurie juda [ant] žemės, ir drauge su visomis jūros žuvimis."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Visi gyvi judantys padarai bus jums maistui. Kaip [atidaviau] žalius augalus, taip atiduodu jums viską."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Bet mėsos su jo gyvybe, [kuri yra] jo kraujas, nevalgykite."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir už jūsų kraują, [nuo kurio] priklauso jūsų gyvybės, būtinai pareikalausiu [atsiskaityti]: iš kiekvieno gyvo padaro pareikalausiu [atsiskaityti] už jį, ir iš žmogaus. Iš kiekvieno [žmogų nužudžiusio] žmogaus pareikalausiu [atsiskaityti] už brolio gyvybę."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Kas pralieja žmogaus kraują, to kraujas turi būti žmogaus pralietas, nes Dievas padarė žmogų pagal savo atvaizdą."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "O jūs būkite vaisingi ir dauginkitės, gausėkite žemėje ir dauginkitės joje!“"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "¶ Tada Dievas kalbėjo Nojui ir jo sūnums, [esantiems] su juo, sakydamas:"
+                    },
+                    {
+                        "verse": 9,
+                        "text": "„Ir aš, štai aš tvirtinu savo sandorą su jumis ir jūsų palikuonimis, [kurie bus] po jūsų,"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "ir su visais gyvais padarais, esančiais su jumis: su paukščiais, su gyvuliais, su laukiniais žvėrimis, [esančiais] su jumis – su visais, kurie išeina iš arkos, – su visais žemės gyvūnais."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Ir tvirtinu savo sandorą su jumis: niekada daugiau visos kūną turinčios būtybės nebebus tvano vandenų pašalintos ir niekada daugiau nebebus tvano žemei nuniokoti.“"
+                    },
+                    {
+                        "verse": 12,
+                        "text": "¶ Ir Dievas tarė: „Šitas yra ženklas sandoros, kurią aš sudarau tarp savęs ir jūsų bei visų su jumis gyvų padarų, nesibaigiančioms kartoms:"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "savo lanką padedu į debesį, ir jis bus ženklas sandoros tarp manęs ir žemės."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir įvyks taip, kad, kai užleisiu debesį virš žemės, lankas pasirodys debesyje,"
+                    },
+                    {
+                        "verse": 15,
+                        "text": "ir aš atsiminsiu savo sandorą, esančią tarp manęs ir jūsų bei visų gyvų padarų iš visų kūną turinčių būtybių; ir vandenys daugiau nevirs tvanu visoms kūną turinčioms būtybėms pragaišinti."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "¶ Ir Nojus pabudo nuo savo vyno ir sužinojo, ką jam buvo padaręs jo jaunas sūnus."
+                    },
+                    {
+                        "verse": 25,
+                        "text": "Ir jis tarė: „Tebūna prakeiktas Kanaanas! Jis bus tarnų tarnas savo broliams!“"
+                    },
+                    {
+                        "verse": 26,
+                        "text": "Ir jis tarė: „Palaimintas tebūna VIEŠPATS, Semo Dievas! O Kanaanas tebūna tarnas jiems."
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Dievas teišplečia Jafetą, ir tasai teapsigyvena Semo palapinėse, ir Kanaanas tebūna tarnas tam.“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 10,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Štai šitie [yra] Nojaus sūnų Semo, Chamo ir Jafeto šeimų istorijos duomenys. Po tvano jiems gimė sūnų."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 11,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir visa žemė turėjo vienodą kalbą ir vienodus žodžius."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir įvyko, kad keliaudami iš rytų jie rado lygumą Šinaro šalyje ir ten apsigyveno."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir jie sakė vienas kitam: „Eime, pasidirbkime plytų ir jas gerai išdekime. (O plytų jie turėjo vietoj akmenų, ir bitumo jie turėjo vietoj molinio [plyšių] glaisto.)"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir jie tarė: „Eime, pasistatykime sau miestą ir bokštą, kurio viršūnė danguose, ir pasidarykime sau vardą, kad nebūtume išsklaidyti po visos žemės paviršių.“"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "¶ Ir VIEŠPATS nužengė pamatyti miesto ir bokšto, kurį žmonių palikuonys statė."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Ir VIEŠPATS tarė: „Štai viena tauta, ir viena kalba jiems visiems, ir štai ką jie pradėjo veikti! O kad nuo šiol nebūtų [taip], kad ką tik jie sumanys daryti būtų be suvaržymo,"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "eime, nuženkime ir ten sumaišykime jų kalbą, kad jie nesuprastų vienas kito kalbos.“"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Taip VIEŠPATS juos išsklaidė iš ten po visos žemės paviršių, ir jie nustojo statę miestą."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Todėl pavadino jį vardu Babelis, nes ten VIEŠPATS sumaišė visos žemės kalbą ir iš ten VIEŠPATS juos išsklaidė po visos žemės paviršių."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "¶ Šie [yra] Šemo šeimos istorijos duomenys: Šemas buvo šimto metų ir pagimdė Arpachšadą dvejiems metams [praėjus] po tvano."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Ir Šemas, po to, kai pagimdė Arpachšadą, gyveno penkis šimtus metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir Arpachšadas pragyveno trisdešimt penkerius metus ir pagimdė Šelachą."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir Arpachšadas, po to, kai pagimdė Šelachą, gyveno keturis šimtus trejus metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir Šelachas pragyveno trisdešimt metų ir pagimdė Eberą."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Ir Šelachas, po to, kai pagimdė Eberą, gyveno keturis šimtus trejus metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir Eberas pragyveno trisdešimt ketverius metus ir pagimdė Pelegą."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir Eberas, po to, kai pagimdė Pelegą, gyveno keturis šimtus trisdešimt metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Ir Pelegas pragyveno trisdešimt metų ir pagimdė Rejų."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir Pelegas, po to, kai pagimdė Rejų, gyveno du šimtus devynerius metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Ir Rejus pragyveno trisdešimt dvejus metus ir pagimdė Serugą."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Ir Rejus, po to, kai pagimdė Serugą, gyveno du šimtus septynerius metus ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Ir Serugas pragyveno trisdešimt metų ir pagimdė Nachorą."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Ir Serugas, po to, kai pagimdė Nachorą, gyveno du šimtus metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Ir Nachoras pragyveno dvidešimt devynerius metus ir pagimdė Terachą."
+                    },
+                    {
+                        "verse": 25,
+                        "text": "Ir Nachoras, po to, kai pagimdė Terachą, gyveno šimtą devyniolika metų ir pagimdė sūnų bei dukterų."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "¶ Ir Terachas pragyveno septyniasdešimt metų ir pagimdė Abramą, Nachorą ir Haraną."
+                    },
+                    {
+                        "verse": 27,
+                        "text": "¶ Štai šitie [yra] Teracho šeimos istorijos duomenys: Terachas pagimdė Abramą, Nachorą ir Haraną. O Haranas pagimdė Lotą."
+                    },
+                    {
+                        "verse": 28,
+                        "text": "Ir Haranas mirė savo tėvo Teracho akivaizdoje savo gimtojoje šalyje, chaldėjų Ūre."
+                    },
+                    {
+                        "verse": 29,
+                        "text": "O Abramas ir Nahoras ėmė sau žmonas. Abramo žmonos vardas [buvo] Saraja, o Nachoro žmonos vardas Milka, [kuri buvo] duktė Harano, [kuris buvo] Milkos tėvas ir Iskos tėvas."
+                    },
+                    {
+                        "verse": 30,
+                        "text": "O Saraja buvo nevaisinga; [jokio] vaiko ji neturėjo."
+                    },
+                    {
+                        "verse": 31,
+                        "text": "Ir Terachas paėmė savo sūnų Abramą ir Harano sūnų Lotą, [kuris buvo] jo vaikaitis, ir savo marčią Sarają, [kuri buvo] jo sūnaus Abramo žmoną. Ir jie išvyko su jais iš chaldėjų Ūro, kad nukeliautų į Kanaano šalį. O atėję ligi Harano, jie ten apsigyveno."
+                    },
+                    {
+                        "verse": 32,
+                        "text": "Ir Teracho dienos sudarė du šimtus penkerius metus, ir Terachas mirė Harane."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 12,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS buvo taręs Abramui: „Eik iš savo šalies ir iš savo giminės ir iš savo tėvo namų į šalį, kurią tau parodysiu."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir padarysiu iš tavęs didelę tautą ir laiminsiu tave, ir padarysiu didį tavo vardą, ir tu būsi palaiminimas."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir laiminsiu tave laiminančius, bet prakeiksiu tave prakeikiantį; ir tavyje bus palaimintos visos žemės šeimų grupės.“"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Taigi Abramas išvyko, kaip VIEŠPATS jam buvo pasakęs, ir su juo vyko Lotas; ir Abramas buvo septyniasdešimt penkerių metų, kai išvyko iš Harano."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir Abramas pasiėmė savo žmoną Sarają ir savo brolio sūnų Lotą ir visą jų turtą, kurį jie buvo sukaupę, ir asmenis, kuriuos jie buvo įsigiję Harane. Ir jie išvyko, kad nukeliautų į Kanaano šalį, ir atvyko į Kanaano šalį."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir Abramas perėjo per tą šalį iki Šechemo vietovės, iki Morės lygumos. O anuomet kanaaniečiai [buvo] toje šalyje."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir VIEŠPATS pasirodė Abramui ir tarė: „Tavo sėklai aš duosiu šitą šalį.“ Ir jis ten pastatė aukurą VIEŠPAČIUI, kuris jam pasirodė."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir VIEŠPATS užgavo faraoną ir jo namus didelėmis rykštėmis dėl Sarajos, Abramo žmonos."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 13,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Tada Abramas keliavo aukštyn iš Egipto – jis ir jo žmona ir visa, kas jam priklausė, bei Lotas su juo, – į Negebą."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir VIEŠPATS tarė Abramui, kai Lotas buvo nuo jo atsiskyręs: „Pakelk dabar savo akis ir pažvelk iš vietos, kurioje esi, į šiaurę ir į pietus, į rytus ir į vakarus,"
+                    },
+                    {
+                        "verse": 15,
+                        "text": "nes visą šalį, kurią matai, duosiu tau ir tavo palikuonijai amžiams."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir padarysiu tavo palikuoniją kaip žemės dulkes taip, kad jei kas galėtų suskaičiuoti žemės dulkes, [tai] ir tavo palikuonija galėtų būti suskaičiuota."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Kelkis, pereik šalį išilgai ir skersai, nes tau ją duosiu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 14,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir įvyko Šinaro karaliaus Amrafelio, Elasaro karaliaus Arjocho, Elamo karaliaus Kedorlaomero ir tautų karaliaus Tidalo dienomis,"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "[kad šitie] kariavo su Sodomos karaliumi Bera ir su Gomoros karaliumi Birša, Admos karaliumi Šinabu ir Ceboimo karaliumi Šemeberiu, ir Belos, tai yra Coaro, karaliumi."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Tie visi susivienijo Sidimo slėnyje, kuris yra Druskos jūra."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Dvylika metų jie priverstinai tarnavo Kedorlaomerui, o tryliktaisiais metais sukilo."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir keturioliktaisiais metais atėjo Kedorlaomeras ir su juo esantys karaliai ir sumušė refajus Ašterot Karnaime, ir zuzus Hame, ir emus Šave Kirjataime,"
+                    },
+                    {
+                        "verse": 6,
+                        "text": "ir horus jų kalnyne, Seyre, iki pat prie dykumos esančio El Parano."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir jie apsigręžė ir atėjo į En Mišpatą, tai yra Kadešą, ir nukariavo visą amalekiečių kraštą, taip pat amoritus, gyvenusius Hacecon Tamaroje."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir išėjo Sodomos karalius, Gomoros karalius, Admos karalius, Ceboimo karalius ir Belos, tai [yra] Coaro, karalius, ir jie stojo į mūšį su jais Sidimo slėnyje:"
+                    },
+                    {
+                        "verse": 9,
+                        "text": "su Elamo karaliumi Kedorlaomeru, ir tautų karaliumi Tidalu, ir Šinaro karaliumi Amrafeliu, ir Elasaro karaliumi Arjochu – keturi karaliai prieš penkis."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Ir padalinęs [pajėgas] prieš juos, naktį jis ir jo tarnai sumušė juos, ir vijosi juos iki Hobos, esančios Damasko kairėje."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir jis pargabeno visą turtą, pargabeno ir savo brolį Lotą ir jo turtą, taip pat moteris ir [kitus] žmones."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir po [Abramo] sugrįžimo iš Kedorlaomero ir su juo buvusių karalių nukovimo, Sodomos karalius išėjo jo pasitikti į Šavės slėnį, tai yra Karaliaus slėnį."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Ir Melchizedekas, Salemo karalius, išnešė duonos ir vyno; ir jis [buvo] Dievo Aukščiausiojo kunigas."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir jis palaimino jį tardamas: „Tegul palaimina Abramą Dievas Aukščiausiasis, dangaus ir žemės savininkas!"
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Ir tebūna palaimintas Dievas Aukščiausiasis, kuris atidavė tavo priešus į tavo ranką!“ Ir jis davė jam nuo visko dešimtinę."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 15,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Po šių dalykų VIEŠPATIES žodis atėjo Abramui regėjime, sakydamas: „Nebijok, Abramai! Aš [esu] tavo skydas, tavo labai apstus atlygis.“"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir, išvedęs jį laukan, tarė: „Malonėk įbesti akis į dangų ir suskaičiuoti žvaigždes, jei gali jas suskaičiuoti!“ Ir jis jam tarė: „Tokia bus tavo sėkla.“"
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Ir jis pasitikėjo VIEŠPAČIU, o jis įskaitė tai jam kaip teisumą."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir jis tarė Abramui: „Žinok užtikrintai, kad keturis šimtus metų tavo palikuonija bus ateivis ne nesavoje šalyje (jie gi [svetimiesiems] tarnaus, o anie juos kamuos)."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Bet ir tautai, kuriai jie tarnaus, aš įvykdysiu teisingumą, o po to jie išvyks su dideliu turtu."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "O tu nueisi pas savo tėvus ramybėje; tu būsi palaidotas žiloje senatvėje."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Bet ketvirtoje kartoje jie čia sugrįš, nes amoritų blogybės [saikas] dar nepilnas.“"
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Tą pačią dieną VIEŠPATS tvirtino su Abramu sandorą, sakydamas: „Tavo sėklai aš daviau šitą šalį nuo Egipto upės iki didžiosios upės, – Eufrato upės –"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 17,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir kai Abramas buvo devyniasdešimt devynerių metų, VIEŠPATS pasirodė Abramui ir jam tarė: „Aš [esu] Visagalis Dievas; vaikščiok mano akivaizdoje ir būk nepriekaištingas."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir aš sudarysiu savo sandorą tarp savęs ir tavęs ir nepaprastai tave padauginsiu.“"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir Abramas parpuolė kniūbsčias, ir Dievas kalbėjo su juo, tardamas:"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "„O mano, štai mano sandora [yra] su tavimi, ir tu būsi daugelio tautų tėvu."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir nebesivadinsi vardu Abramas, bet tavo vardas bus Abraomas, nes padariau tave daugelio tautų tėvu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 18,
+                "verses": [
+                    {
+                        "verse": 25,
+                        "text": "¶ Tebūnie toli nuo tavęs taip pasielgti – nužudyti teisųjį su nedorėliu, kad teisiajam atsitiktų taip, kaip nedorėliui! Toli tai tebūnie nuo tavęs! Ar visos žemės Teisėjas nedarys tai, kas teisinga?“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 19,
+                "verses": [
+                    {
+                        "verse": 17,
+                        "text": "¶ Ir įvyko, kai jie juos išvedė laukan, jis tarė: „Paspruk dėl savo gyvybės! Nežiūrėk atgal ir nesustok niekur lygumoje! Bėk į kalną, kad nebūtum pražudytas!“"
+                    },
+                    {
+                        "verse": 24,
+                        "text": "¶ Tada VIEŠPATS liejo ant Sodomos ir Gomoros sierą ir ugnį nuo VIEŠPATIES, iš dangaus,"
+                    },
+                    {
+                        "verse": 25,
+                        "text": "ir pargriovė tuos miestus ir visą lygumą ir visus miestų gyventojus ir dirvos augalus."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "¶ O jo žmona, [eidama] iš paskos, žiūrėjo [atgal] ir pavirto druskos stulpu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 20,
+                "verses": [
+                    {
+                        "verse": 12,
+                        "text": "¶ Be to, iš tiesų [ji yra] mano sesuo. Ji [yra] mano tėvo duktė, bet ne mano motinos duktė, ir ji tapo mano žmona."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 21,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir Sara tarė: „Dievas padarė taip, kad juokiausi; visi, kurie girdės, juoksis su manimi.“"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "¶ Ir Abraomas atsikėlė anksti ryte ir paėmė duonos bei odinę vandens ir užkėlęs [tai] ant jos peties davė [tai] ir vaiką Hagarai ir ją išsiuntė; ir ji išėjo ir klaidžiojo Beer Šebos dykumoje."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 22,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir įvyko po tų dalykų, kad Dievas išmėgino Abraomą ir jam tarė: „Abraomai!“ Ir jis tarė: „Aš čia!“"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir jis tarė: „Meldžiu tave, imk savo sūnų, savo vienintelį, kurį tu myli, Izaoką, ir eik į Morijos šalį; ir ten paaukok jį kaip deginamąją auką ant vieno iš kalnų, kurį tau nurodysiu.“"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir Izaokas kalbėjo savo tėvui Abraomui, tardamas: „Mano tėve!“ O tas tarė: „Aš čia, mano sūnau.“ Ir jis tarė: „Štai ugnis ir malkos, bet kur yra tas avinėlis deginamajai aukai?“"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir Abraomas tarė: „Dievas sau parūpins tam tikrą avinėlį deginamajai aukai, mano sūnau.“ Taip jiedu drauge ėjo toliau."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Ir jie atėjo į vietą, apie kurią Dievas jam buvo kalbėjęs, ir Abraomas ten pastatė aukurą ir eilėmis išklojo malkas ir surišo savo sūnų Izaoką ir uždėjo jį ant aukuro virš malkų."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir Abraomas ištiesė savo ranką ir paėmė peilį tam, kad papjautų savo sūnų."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "¶ Bet VIEŠPATIES angelas sušuko jam iš dangaus tardamas: „Abraomai, Abraomai!“ Ir jis tarė: „Aš čia!“"
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir jis tarė: „Netiesk savo rankos prieš berniuką ir nieko jam nedaryk! Nes dabar žinau, kad bijai Dievo, kadangi tu nesulaikei nuo manęs savo sūnaus, savo vienintelio sūnaus.“"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir Abraomas, pakėlęs savo akis, žiūrėjo, ir štai [jam] už nugaros avinas tankmėje įstrigęs savo ragais. Tai Abraomas priėjo ir paėmė aviną, ir paaukojo jį kaip deginamąją auką vietoj savo sūnaus."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir Abraomas praminė tą vietą „Jehova-Jireh“; kaip yra sakoma iki šios dienos: „VIEŠPATIES kalne bus parūpinta“."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 24,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir Abraomas buvo pasenęs, sulaukęs senyvo amžiaus, ir VIEŠPATS buvo laiminęs Abraomą visapusiškai."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir Abraomas tarė savo tarnui, savo namų ūkio vyriausiajam, kuris valdė visa, kas jam priklausė: „Na, dėk savo ranką po mano šlaunimi,"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "ir aš prisaikdinsiu tave VIEŠPAČIU, dangaus Dievu ir žemės Dievu, kad mano sūnui tu neimsi žmonos iš dukterų kanaaniečių, tarp kurių aš gyvenu,"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "bet nuvyksi į mano kraštą ir pas mano giminę ir paimsi žmoną mano sūnui Izaokui.“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 25,
+                "verses": [
+                    {
+                        "verse": 19,
+                        "text": "¶ Ir šitie [yra] Abraomo sūnaus Izaoko šeimos istorijos duomenys: Abraomas pagimdė Izaoką;"
+                    },
+                    {
+                        "verse": 20,
+                        "text": "o Izaokas buvo keturiasdešimties metų, kai jis ėmė į žmonas Rebeką, aramėjo Betuelio iš Padan Aramo dukterį, aramėjo Labano seserį."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Ir Izaokas uoliai maldavo VIEŠPATĮ už savo žmoną, nes ji [buvo] nevaisinga; o VIEŠPATS patenkino uolų maldavimą, ir jo žmona Rebeka tapo nėščia."
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Ir berniukai augo; ir Ezavas buvo sumanus medžiotojas, lauko vyras; o Jokūbas [buvo] ramus žmogus, gyvenąs palapinėse."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 28,
+                "verses": [
+                    {
+                        "verse": 10,
+                        "text": "¶ O Jokūbas išvyko iš Beer Šebos ir vyko Harano link."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Ir užtikęs tam tikrą vietą, jis ten nakvojo, nes saulė jau buvo nusileidusi. Ir paėmęs iš tos vietos akmenų, jis pasidėjo prie savo galvos, ir toje vietoje atsigulė miegoti."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Ir štai aš esu su tavimi ir tave saugosiu visur, kur eisi ir tave sugrąžinsiu į šią šalį, nes nepaliksiu tavęs, kol neįvykdysiu, ką esu tau pažadėjęs.“"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir Jokūbas pabudo iš miego ir tarė: „Tikrai VIEŠPATS yra šioje vietoje, o aš nežinojau!“"
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir jis bijojo ir tarė: „Kokia bauginanti ši vieta! Tai ne kas kita, kaip tik Dievo namai, ir tai dangaus vartai!“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 29,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Tada Jokūbas vėl leidosi kelionėn ir atvyko į rytiečių šalį."
+                    },
+                    {
+                        "verse": 31,
+                        "text": "Ir VIEŠPATS, matydamas, kad Lėja, [lyginant su Rachele], [buvo] nekenčiama, atidarė jos įsčias, bet Rachelė [buvo] nevaisinga."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 32,
+                "verses": [
+                    {
+                        "verse": 20,
+                        "text": "¶ ir sakykite: „Štai ir tavo tarnas Jokūbas [yra] mums iš paskos. (Nes jis tarė: „Aš sutaikinsiu jį dovana, kuri eina pirma manęs, o paskui išvysiu jo veidą; galbūt jis mane priims.“)"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 37,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir Jokūbas gyveno šalyje, kurioje jo tėvas buvo laikinas gyventojas, Kanaano šalyje."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Šitie [yra] Jokūbo šeimos istorijos duomenys. Septyniolikos metų sūnui Juozapui teko ganyti kaimenę su savo broliais, o berniukas buvo su savo tėvo žmonų Bilhos ir Zilpos sūnumis; ir Juozapas parnešdavo savo tėvui blogų žinių apie juos."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "O Izraelis mylėjo Juozapą labiau už visus [kitus] savo vaikus, nes jis [buvo] jo senatvės sūnus, ir jis padarė jam margaspalvį drabužį."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir jo broliai, pastebėję, kad jų tėvas jį mylėjo labiau už visus jo brolius, nekentė jo ir negalėjo su juo taikingai kalbėti."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir Juozapas sapnavo sapną ir papasakojo [jį] savo broliams. Tada jie dar labiau jo nekentė."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Ir jis jiems tarė: „Na, pasiklausykite šio sapno, kurį sapnavau!"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Antai mes rišome pėdus laukuose, ir štai mano pėdas atsikėlė ir pasiliko stačias, o štai jūsų pėdai sustojo aplinkui ir nusilenkė mano pėdui."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Tada vienas vyras sutiko jį, ir štai – šis klaidžioja po lauką! Ir tas vyras jo paklausė, sakydamas: „Ko ieškai?“"
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Eime, parduokime jį izmaelitams, bet savo rankos nekelkime prieš jį, nes jis [yra] mūsų brolis, mūsų kūnas! Ir jo broliai paklausė."
+                    },
+                    {
+                        "verse": 28,
+                        "text": "Einant pro šalį midjaniečiams pirkliams, jie Juozapą pakėlė ir ištraukė iš duobės. Jie tada pardavė Juozapą izmaelitams už dvidešimt sidabrinių. O tie nusivedė Juozapą į Egiptą."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 39,
+                "verses": [
+                    {
+                        "verse": 2,
+                        "text": "¶ Ir VIEŠPATS buvo su Juozapu, ir jis buvo sėkmingas vyras, ir jis buvo savo šeimininko egiptiečio namuose."
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir nuo to laiko, kai jis paskyrė jį prižiūrėtoju savo namuose ir [prižiūrėtoju] visko, kas jam priklausė, taip įvyko, kad VIEŠPATS dėl Juozapo laimino egiptiečio namus. Ir VIEŠPATIES palaiminimas teko viskam, kas jam priklausė namuose ir laukuose."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Ir Juozapo šeimininkas suėmė jį ir pasodino jį į kalėjimą, į vietą, kur kalėjo karaliaus kaliniai. Ir jis ten pasiliko kalėjime."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Bet VIEŠPATS buvo su Juozapu ir parodė jam maloningumą ir davė jam palankumą kalėjimo viršininko akyse."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 41,
+                "verses": [
+                    {
+                        "verse": 38,
+                        "text": "¶ Ir faraonas tarė savo tarnams: „Ar berasime tokį vyrą, kaip šis, kuriame [yra] Dievo Dvasia?“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 42,
+                "verses": [
+                    {
+                        "verse": 11,
+                        "text": "¶ Mes visi [esame] vieno vyro sūnūs; mes dori [žmonės]; tavo tarnai nėra šnipai!“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 49,
+                "verses": [
+                    {
+                        "verse": 18,
+                        "text": "¶ VIEŠPATIE, tebelaukiu tavo išgelbėjimo!"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 50,
+                "verses": [
+                    {
+                        "verse": 16,
+                        "text": "¶ Ir jie perdavė Juozapui [tokį] įsakymą, sakydami: „Tavo tėvas prieš savo mirtį įsakė, sakydamas:"
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Bet dėl jūsų, jūs sumanėte prieš mane bloga; Dievas tai sumanė kaip gera, kad [tai] įvykdytų – kaip [yra] šiandien – [kad] daug žmonių išlaikytų gyvų."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_code": "EXO",
+        "book_name": "Išėjimo",
+        "category": "Eski Ahit",
+        "language": "lt",
+        "chapters": [
+            {
+                "chapter_number": 1,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "Ir mirė Juozapas ir visi jo broliai ir visa ana karta."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 2,
+                "verses": [
+                    {
+                        "verse": 3,
+                        "text": "¶ Ir nebegalėdama ilgiau jo slėpti, ji paėmė jam papiruso nendrių dėžutę ir apglaistė ją bitumu ir derva. Ji įdėjo į ją vaiką, ir padėjo tarp nendrių prie upės kranto."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Ir Dievas išgirdo jų vaitojimą ir Dievas atsiminė savo sandorą su Abraomu, Izaoku ir Jokūbu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 3,
+                "verses": [
+                    {
+                        "verse": 5,
+                        "text": "¶ Ir jis tarė: „Nesiartink prie šios vietos! Nusiauk nuo savo kojų apavą, nes vieta, ant kurios tu stovi, [yra] šventa žemė“."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "¶ Ir VIEŠPATS tarė: „Aš tikrai mačiau prispaudimą savo tautos, esančios Egipte, ir išgirdau jos šauksmą dėl jos varovų [į darbus], nes aš žinau jos kančias;"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir Dievas tarė Mozei: „AŠ ESU, KURIS ESU.“ Ir jis pridūrė: „Šitaip sakyk Izraelio vaikams: mane siuntė pas jus AŠ ESU.“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 6,
+                "verses": [
+                    {
+                        "verse": 2,
+                        "text": "¶ Ir Dievas kalbėjo Mozei sakydamas: „Aš [esu] JEHOVA."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Aš pasirodžiau Abraomui, Izaokui ir Jokūbui Dievo Visagalio [vardu], bet savo vardu „JEHOVA“ jiems nedaviau savęs pažinti."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 7,
+                "verses": [
+                    {
+                        "verse": 13,
+                        "text": "¶ Ir faraono širdis užkietėjo, kad jis jų neklausė, kaip VIEŠPATS buvo sakęs."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 8,
+                "verses": [
+                    {
+                        "verse": 10,
+                        "text": "¶ Tas atsakė: „Rytoj.“ Anas tarė: „[Tebūna] pagal tavo žodį, kad žinotum, jog nėra kito kaip VIEŠPATS, mūsų Dievas!“"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir VIEŠPATS tarė Mozei: „Sakyk Aaronui: „Ištiesk savo lazdą ir suduok į žemės dulkes, kad jos pavirstų utėlėmis visoje Egipto šalyje.“"
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Kitaip, jeigu tu neišleisi mano tautos, štai aš užleisiu [musių] spiečiais tave, tavo tarnus, tavo tautą ir tavo namus. Ir egiptiečių namai bus pilni [musių] spiečių ir taip pat žemė, kurioje jie [gyvena]."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 9,
+                "verses": [
+                    {
+                        "verse": 8,
+                        "text": "¶ Ir VIEŠPATS tarė Mozei ir Aaronui: „Pasiimkite pilnas rieškučias krosnies pelenų, ir Mozė turi juos stipriai paberti į dangų faraono akivaizdoje."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Ir jie taps smulkiomis dulkėmis virš viso Egipto šalies, ir visoje Egipto šalyje ant žmonių ir ant gyvulių atsiras votys, pūliuojančios opos.“"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir jie paėmė krosnies pelenų ir atsistojo faraono akivaizdoje ir Mozė juos stipriai pabėrė į dangų. Ir ant žmonių ir ant gyvulių atsirado votys, pūliuojančios opos."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 10,
+                "verses": [
+                    {
+                        "verse": 22,
+                        "text": "¶ Ir Mozė ištiesė savo ranką į dangų, ir tris dienas visoje Egipto šalyje buvo tiršta tamsa."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Tris dienas jie nematė vienas kito, nei pajudėjo iš vietos. Tačiau, visų Izraelio vaikų namuose buvo šviesu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 11,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS tarė Mozei: „Dar vieną rykštę siųsiu faraonui ir Egiptui. Po to jis išleis jus iš čia. Kai jis [jus] išleis, jis jus varyte išvarys iš čia visiškai."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Bet prieš nors vieną iš Izraelio vaikų šuo nepajudins savo liežuvio, nei prieš žmogų, nei prieš gyvulį, kad žinotumėte, jog VIEŠPATS daro skirtumą tarp egiptiečių ir izraelitų."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 12,
+                "verses": [
+                    {
+                        "verse": 5,
+                        "text": "¶ Jūsų avinėlis turi būti be kliaudos, vienerių metų patinas; turite jį paimti iš avių ar ožkų."
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Ir jį turite laikyti iki šio mėnesio keturioliktos dienos, tada visa Izraelio susirinkimo minia jį papjaus tarp dviejų – [ankstyvojo ir vėlyvojo] – vakarų."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ir jie turi paimti kraujo ir [juo] patepti abi staktas ir sąramą tų namų, kuriuose jie valgys jį."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Ir šiuo būdu jį valgykite: susijuosę strėnas, apsiavę kurpes ir pasiėmę lazdą į ranką; ir jį valgykite paskubomis. Tai [yra] VIEŠPATIES Aplenkimas."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Nes tą naktį aš pereisiu per Egipto šalį ir užmušiu visus pirmagimius Egipto šalyje, tiek žmones, tiek ir gyvulius, ir visiems Egipto dievams įvykdysiu teismą; aš [esu] VIEŠPATS!"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "O kraujas bus ženklas jūsų naudai ant namų, kuriuose jūs [būsite]. Tada, pamatęs kraują, jus aplenksiu, ir, man niokojant Egipto šalį, jūsų nepalies pragaišinimo rykštė."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "Ir turi įvykti [šitaip], kai jūsų vaikai jums sakys: „Kas yra šis jūsų tarnavimas?“"
+                    },
+                    {
+                        "verse": 27,
+                        "text": "tada jūs sakykite: „Tai VIEŠPATIES Aplenkimo auka; jis aplenkė Izraelio vaikų namus Egipte, kai jis smogė egiptiečius, o mūsų namus išgelbėjo.“ Ir žmonės nusilenkė ir kniūbsti garbino.“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 13,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir bus šitaip – ateityje kai tavo sūnus tave paklaus: „Ką tai reiškia?“, tu jam atsakysi: „Galinga ranka VIEŠPATS mus išvedė iš Egipto, iš vergystės namų."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir tai bus kaip ženklas tau ant rankos ir kaip galvaraištis tarp tavo akių, kad galinga ranka VIEŠPATS išvedė mus iš Egipto."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 14,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 15,
+                "verses": [
+                    {
+                        "verse": 3,
+                        "text": "¶ VIEŠPATS [yra] karo vyras, VIEŠPATS jo vardas!"
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Kas tarp dievų tau lygus, VIEŠPATIE? Kas, kaip tu, toks didingas šventumu, baimę keliantis [savo veiksmais, kurie verti] gyriaus, darantis stebuklus?"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Savo gailestingumu tu vedei tautą, [kurią] išpirkai, savo galia nuvedei į savo šventąją buveinę."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "VIEŠPATS karaliaus per amžių amžius!"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 16,
+                "verses": [
+                    {
+                        "verse": 11,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 34,
+                        "text": "Kaip VIEŠPATS įsakė Mozei, taip Aaronas jį atidėjo priešais Liudijimą, kad būtų išlaikytas."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 17,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "¶ Štai aš stovėsiu ten priešais tave ant tos uolos Horebe. O tu suduok į uolą, ir iš jos ištekės vandens, kad tauta atsigertų.“ Mozė Izraelio vyresniųjų akyse taip ir padarė."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 20,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir Dievas kalbėjo visus šiuos žodžius, sakydamas:"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "„Aš esu VIEŠPATS, tavo Dievas, kuris tave išvedžiau iš Egipto šalies, iš vergijos namų."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Neturėk kitų dievų šalia manęs."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Nedaryk sau jokio raižybos kūrinio nei jokio atvaizdo to, kas yra aukštai danguje, ar kas žemai žemėje, ar kas vandenyje po žeme;"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "nesilenk prieš juos nei tarnauk jiems; nes aš – VIEŠPATS, tavo Dievas, – [esu] pavydus Dievas, vaikams paskiriantis tėvų blogadarybių aplankymą – trečiajai ir ketvirtajai [kartai] tų, kurie manęs nekenčia, –"
+                    },
+                    {
+                        "verse": 6,
+                        "text": "ir rodantis gailestingumą tūkstančiams tų, kurie mane myli ir laikosi mano įsakymų."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Tuščiam reikalui nevartok VIEŠPATIES, savo Dievo, vardo, nes VIEŠPATS nelaikys nekaltu to, kuris nerimtai vartoja jo vardą."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Atsimink šabo dieną, kad ją laikytum šventa."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Šešias dienas dirbk ir atlik visą savo darbą,"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "bet septintoji diena [yra] VIEŠPATIES, tavo Dievo šabas. [Joje] nedirbk jokio darbo nei tu pats ar tavo sūnus ar tavo duktė, nei tavo tarnas ar tavo tarnaitė ar tavo gyvulys ar pas tave esantis svetimšalis, kuris [yra] tavo vartų [ribose],"
+                    },
+                    {
+                        "verse": 11,
+                        "text": "nes [per] šešias dienas VIEŠPATS padarė dangų ir žemę, jūrą ir visa, kas [yra] juose, o septintąją dieną ilsėjosi. Todėl VIEŠPATS palaimino šabo dieną ir pašventino ją."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Gerbk savo tėvą ir savo motiną, kad tavo dienos būtų prailgintos šalyje, kurią VIEŠPATS, tavo Dievas, tau duoda."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Neįvykdyk žmogžudystės."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Nesvetimauk."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Nevok."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Neliudyk melagingai prieš savo artimą."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Negeisk savo artimo namų; negeisk savo artimo žmonos, nei jo tarno, nei jo tarnaitės, nei jo jaučio, nei jo asilo, nei bet ko, kas [priklauso] tavo artimui.“"
+                    },
+                    {
+                        "verse": 24,
+                        "text": "Iš žemės padaryk man aukurą ir aukok ant jo savo deginamąsias ir savo taikos aukas, savo avis ir savo galvijus. Kiekvienoje vietoje, kurioje priminsiu savo vardą, aš ateisiu pas tave ir laiminsiu tave."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 21,
+                "verses": [
+                    {
+                        "verse": 24,
+                        "text": "¶ akį už akį, dantį už dantį, ranką už ranką, koją už koją,"
+                    },
+                    {
+                        "verse": 25,
+                        "text": "nudeginimą už nudeginimą, žaizdą už žaizdą, randą už randą."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 22,
+                "verses": [
+                    {
+                        "verse": 26,
+                        "text": "¶ Jeigu tik paimsi kaip užstatą savo artimo apdarą, tu turi jam sugrąžinti jį iki saulės laidos,"
+                    },
+                    {
+                        "verse": 27,
+                        "text": "nes tai yra jo vienintelis apklotas, tai jo odos drabužis: į ką kita [įsivyniojęs] jis atsiguls? Ir bus šitaip: kai jis šauksis manęs, išklausysiu, nes aš [esu] maloningas."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 24,
+                "verses": [
+                    {
+                        "verse": 12,
+                        "text": "¶ Ir VIEŠPATS tarė Mozei: „Užlipk pas mane į kalną ir ten pabūk. Ir tau duosiu akmens plokštes, tai yra įstatymą ir įsakymus, kuriuos surašiau jiems pamokyti.“"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Taigi Mozė pakilo su savo padėjėju Jozue, ir Mozė lipo į Dievo kalną."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir Izraelio vaikų akims VIEŠPATIES šlovės vaizdas [buvo] kaip ryjanti ugnis kalno viršūnėje."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 25,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir jie tepadaro man šventovę, kad gyvenčiau tarp jų."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Pagal visa tai, ką tau parodysiu, [pagal] padangtės pavyzdį ir visų jos įrankių pavyzdį, būtent taip turite [ją] padaryti."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Ir padaryk kartis [iš] akacijos medžio ir jas aptrauk auksu."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir įdėk į skrynią Liudijimą, kurį tau duosiu."
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Ir iš gryno aukso padaryk gailestingumo sostą pustrečios uolekties ilgio ir pusantros uolekties pločio."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Ir [iš] aukso padaryk du kerubus, iš kūju nuplakto [metalo] juos padaryk abiejuose gailestingumo sosto galuose."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir padaryk vieną kerubą viename gale, o kitą kerubą kitame gale; iš gailestingumo sosto padarykite kerubus abiejuose jo galuose."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Ir kerubai turi būti išskėtę savo sparnus aukštyn, gaubdami savo sparnais gailestingumo sostą, o jų veidai [turi būti] vienas priešais kitą, į gailestingumo sostą turi būti nukreipti kerubų veidai."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Ir uždėk gailestingumo sostą ant skrynios iš viršaus, o į skrynią įdėk Liudijimą, kurį tau duosiu."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Ir ten aš su tavimi susitiksiu ir kalbėsiuosi su tavimi nuo gailestingumo sosto viršaus (iš tarp dviejų kerubų, esančių ant Liudijimo skrynios) apie viską, ką aš tau įsakymu duosiu Izraelio vaikams."
+                    },
+                    {
+                        "verse": 23,
+                        "text": "Taip pat padaryk stalą [iš] akacijos medžio; jo ilgis [bus] dvi uolektys ir jo plotis – [viena] uolektis ir jo aukštis – pusantros uolekties."
+                    },
+                    {
+                        "verse": 30,
+                        "text": "Ir nuolat mano akivaizdoje [laikyk] padėjęs ant stalo padėtinę duoną."
+                    },
+                    {
+                        "verse": 31,
+                        "text": "Ir padaryk [iš] gryno aukso žibintuvą; žibintuvas turi būti nukaltas. Jo kotas ir jo šakos, jo taurelės, jo buoželės ir jo žiedai turi būti iš to paties [gabalo]."
+                    },
+                    {
+                        "verse": 32,
+                        "text": "Šešios šakos turi išeiti iš jo šonų: trys žibintuvo šakos iš vieno jo šono ir trys žibintuvo šakos iš kito jo šono;"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 26,
+                "verses": [
+                    {
+                        "verse": 31,
+                        "text": "¶ Ir padaryk uždangą [iš] mėlynos ir violetinės ir skaisčiai raudonos [medžiagos] ir plonų suktinių siūlų drobės; ji bus puikaus meistro darbas, kurį turi padaryti su [išsiuvinėtais] kerubais."
+                    },
+                    {
+                        "verse": 32,
+                        "text": "Ir pakabink ją ant keturių auksu aptrauktų akacijos [medžio] stulpų, turinčių auksinius kablius ant keturių sidabro pastovų."
+                    },
+                    {
+                        "verse": 33,
+                        "text": "Ir uždangą pakabink žemiau sagčių ir ten, už uždangos, į vidų įnešk Liudijimo skrynią, o uždanga turi jums atskirti šventąją [vietą] nuo švenčiausiosios [vietos]."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 27,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir padaryk aukurą [iš] akacijos medžio penkių uolekčių ilgio, penkių uolekčių pločio – aukuras bus kvadratinis – ir jo aukštis [bus] trys uolektys."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir ant jo keturių kampų padaryk jam ragus; jo ragai turi būti iš to paties [gabalo]. Taip pat aptrauk jį bronza / žalvariu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 28,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir kad jis man eitų kunigo pareigas, iš Izraelio vaikų tarpo priartink prie savęs savo brolį Aaroną ir jo sūnus su juo, [tai yra] Aaroną, Nadabą ir Abihuvą, Eleazarą ir Itamarą, Aarono sūnus."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 29,
+                "verses": [
+                    {
+                        "verse": 42,
+                        "text": "¶ Per jūsų kartas [tokia] turi būti nuolatinė deginamoji auka VIEŠPATIES akivaizdoje prie įėjimo į susitikimo palapinę, kur susitiksiu su tavim, kad ten tau kalbėčiau."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 30,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir padaryk aukurą smilkalams deginti; padaryk jį [iš] akacijos medžio."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Jo ilgis [bus viena] uolektis, ir jo plotis [bus viena] uolektis – jis bus kvadratinis – ir jo aukštis [bus] dvi uolektys; jo ragai turi būti iš to paties [gabalo]."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Taip pat aptrauk jį grynu auksu – jo viršų, jo šonus aplinkui ir jo ragus; ir jam aplinkui padaryk aukso atbrailą."
+                    },
+                    {
+                        "verse": 11,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 12,
+                        "text": "„Kai surašysite Izraelio vaikus pagal jų skaičių, tada kiekvienas vyras duos VIEŠPAČIUI išpirką už savo sielą, kai juos skaičiuosi, kad tarp jų nebūtų rykštės, kai juos skaičiuosi."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Štai ką duos kiekvienas, kuris pereis į suskaičiuotuosius: pusę šekelio pagal šventovės šekelį (šekelis [yra] dvidešimt gerų); pusė šekelio [bus] atnaša VIEŠPAČIUI."
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Kiekvienas, kuris pereis į suskaičiuotuosius (dvidešimtmetis ar vyresnis), turi duoti VIEŠPATIES atnašą."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Duodant VIEŠPATIES atnašą, kad atliktų atpirkimą už jūsų sielas, turtingasis neturi duoti daugiau, ir vargšas neturi duoti mažiau kaip pusę šekelio."
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Ir paimk iš Izraelio vaikų atpirkimo pinigus ir paskirk juos susitikimo palapinės tarnavimui. Izraelio vaikams tai bus priminimas VIEŠPATIES akivaizdoje, kad atpirktų jūsų sielas.“"
+                    },
+                    {
+                        "verse": 17,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 31,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "„Štai vardu pašaukiau Hūro sūnaus Ūrio sūnų Becalelį iš Judo genties,"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "ir išminties bei supratimo bei sugebėjimo bei visokio darbo atlikimo [tikslams] jį pripildžiau Dievo Dvasios,"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "sumaniems darbams sugalvoti, dirbiniams padaryti iš aukso, sidabro ir bronzos / žalvario,"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "ir brangakmeniams išpjaustyti įtvėrimui, ir medienai apdirbti, – visokiam darbui atlikti."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 32,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ O kai žmonės matė, kad Mozė uždelsė nusileisti nuo kalno, žmonės susirinko prie Aarono ir jam tarė: „Kelkis, padaryk mums dievų, kurie eitų pirma mūsų, nes nežinome, kas nutiko va šiam Mozei, žmogui, kuris išvedė mus aukštyn iš Egipto šalies.“"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir Aaronas jiems tarė: „Nutraukite auksinius auskarus, esančius jūsų žmonų, jūsų sūnų ir jūsų dukterų ausyse, ir atneškite [juos] man.“"
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir visi žmonės nusitraukė auksinius auskarus, esančius jų ausyse, ir atnešė [juos] Aaronui."
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir paėmęs [tai] iš jų rankų, jis išdrožė jį raižikliu ir padarė jį nulieto metalo veršį. Tada jie tarė: „Šitie [yra] tavo dievai, o Izraeli, kurie tave išvedė aukštyn iš Egipto šalies!“"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "Ir VIEŠPATS gailėdamasis apsigalvojo dėl to blogo, kurį jis pasakė padarysiąs savo tautai."
+                    },
+                    {
+                        "verse": 35,
+                        "text": "Ir VIEŠPATS smogė žmones už tai, kad jie padarė tą veršį, kurį padarė Aaronas."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 33,
+                "verses": [
+                    {
+                        "verse": 14,
+                        "text": "¶ Ir jis tarė: „Aš pats eisiu [su tavimi], ir aš tau suteiksiu poilsį.“"
+                    },
+                    {
+                        "verse": 19,
+                        "text": "O jis atsakė: „Aš padarysiu, kad praeis prieš tavo veidą visas mano gerumas ir ištarsiu prieš tave vardą „VIEŠPATS“; aš būsiu maloningas tam, kam būsiu maloningas, ir pasigailėsiu to, ko pasigailėsiu.“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 34,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir VIEŠPATS jam prieš veidą praėjo ir paskelbė: „VIEŠPATS, VIEŠPATS Dievas, gailestingas ir maloningas, lėtas pykti, gausus gerumu ir tiesa,"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "išlaikantis gailestingumą tūkstančiams, atleidžiantis blogadarybes, nusižengimą ir nuodėmę, tačiau jokiu būdu nepaliekantis [kaltojo] nenubausto, paskiriantis tėvų blogadarybių aplankymą vaikams ir vaikų vaikams, – trečiajai ir ketvirtajai [kartai].“"
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Ir VIEŠPATS tarė Mozei: „Užsirašyk šituos žodžius, nes pagal šitų žodžių pasakymą aš sudariau sandorą su tavimi ir Izraeliu.“"
+                    },
+                    {
+                        "verse": 33,
+                        "text": "Ir Mozė baigė kalbėti su jais (ir jis užsidėjo ant veido gaubtuvą)."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 40,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_code": "LEV",
+        "book_name": "Kunigų (Levitų)",
+        "category": "Eski Ahit",
+        "language": "lt",
+        "chapters": [
+            {
+                "chapter_number": 17,
+                "verses": [
+                    {
+                        "verse": 11,
+                        "text": "¶ Nes kūno gyvybė yra kraujyje, ir aš jums daviau jį ant aukuro jūsų sieloms atpirkti, nes būtent kraujas atperka sielą."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 19,
+                "verses": [
+                    {
+                        "verse": 14,
+                        "text": "¶ Neprakeik kurčiojo nei nepadėk suklupimo kliūties prieš akląjį, bet bijok savo Dievo: aš [esu] VIEŠPATS."
+                    },
+                    {
+                        "verse": 15,
+                        "text": "Jums nevalia neteisingai pasielgti teisme: nebūk šališkas vargšui ir neduok pirmenybės didžiūnui, [bet] teisk savo artimą teisingai."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Nekeršyk nei laikyk pagiežos prieš savo tautiečius, bet mylėk savo artimą kaip save patį: aš [esu] VIEŠPATS."
+                    },
+                    {
+                        "verse": 28,
+                        "text": "Ir nedarykite jokių įsipjovimų savo kūne dėl mirusio, nei darykite ant savęs jokių tatuiruočių: aš esu VIEŠPATS."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 23,
+                "verses": [
+                    {
+                        "verse": 27,
+                        "text": "¶ Būtinai dešimtąją šito septintojo mėnesio [dieną bus] Atpirkimo diena: jums tai bus šventas susirinkimas ir jūs turėsite nužeminti savo sielas ir atnašauti VIEŠPAČIUI auką, [aukojamą] ugnimi."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 24,
+                "verses": [
+                    {
+                        "verse": 12,
+                        "text": "¶ Ir jie įkalino jį, kad jiems [sprendimą] išdėstytų pagal VIEŠPATIES įsakymą."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Jums turi galioti vienokia teisingumo sistema; ji turi galioti tiek svetimšaliui, tiek ir tėvynainiui, nes aš [esu] VIEŠPATS, jūsų Dievas."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 26,
+                "verses": [
+                    {
+                        "verse": 11,
+                        "text": "¶ Ir aš pastatysiu savo padangtę tarp jūsų; ir mano siela nesibjaurės jumis."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir vaikščiosiu tarp jūsų ir būsiu jūsų Dievas, o jūs būsite mano tauta."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 27,
+                "verses": [
+                    {
+                        "verse": 17,
+                        "text": "¶ Jei jis pašventins savo lauką nuo jubiliejaus metų, turi pasilikti tavo nustatyta vertė,"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_code": "NUM",
+        "book_name": "Skaičių",
+        "category": "Eski Ahit",
+        "language": "lt",
+        "chapters": [
+            {
+                "chapter_number": 1,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei Sinajaus dykumoje, susitikimo padangtėje, antrojo mėnesio pirmąją [dieną], antraisiais metais po jų išvykimo iš Egipto šalies, sakydamas:"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "„Surašykite visą Izraelio vaikų susirinkimą pagal jų šeimų grupes, pagal jų tėvų namus, pagal visų vyriškių vardų skaičių, pavieniui."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 6,
+                "verses": [
+                    {
+                        "verse": 24,
+                        "text": "¶ „VIEŠPATS telaimina ir tesaugoja tave."
+                    },
+                    {
+                        "verse": 25,
+                        "text": "VIEŠPATS tenušviečia tave savo veidu ir tebūna tau maloningas."
+                    },
+                    {
+                        "verse": 26,
+                        "text": "VIEŠPATS teatgręžia savo veidą į tave ir tesuteikia tau ramybę."
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Taip jie turi uždėti mano vardą ant Izraelio vaikų, ir aš juos laiminsiu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 10,
+                "verses": [
+                    {
+                        "verse": 29,
+                        "text": "¶ Ir Mozė tarė Hobabui, savo uošvio Reuelio Midjaniečio sūnui: „Keliaujame ton vieton, apie kurią VIEŠPATS yra pasakęs: „Duosiu ją jums.“ Eik su mumis ir mes tau gera darysime, nes VIEŠPATS pažadėjo gera Izraeliui.“"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 11,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir [kai] žmonės skundėsi, tai labai nepatiko VIEŠPAČIUI. O VIEŠPATS išgirdo ir jo rūstybė užsidegė, taip pat VIEŠPATIES ugnis suliepsnojo tarp jų ir prarijo [esančius] stovyklos pakraštyje."
+                    },
+                    {
+                        "verse": 28,
+                        "text": "O Nūno sūnus Jozuė, Mozės padėjėjas, [vienas] iš jo rinktinių vyrų, atsiliepdamas tarė: „Mano viešpatie Moze, sustabdyk jiems!"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 12,
+                "verses": [
+                    {
+                        "verse": 3,
+                        "text": "¶ (O tas vyras Mozė [buvo] labai romus, labiau už visus žmones, [esančius] ant žemės paviršiaus.)"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 13,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 2,
+                        "text": "„Savo labui pasiųsk vyrus, kad jie išžvalgytų Kanaano šalį, kurią aš duodu Izraelio vaikams. Pasiųsk po vieną vyrą iš kiekvienos jo tėvų genties, kiekvienam [esant] vadui tarp jų."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir Mozė pagal VIEŠPATIES įsakymą išsiuntė juos iš Parano dykumos. Visi jie [buvo] Izraelio vaikų vadovaujantys vyrai."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 14,
+                "verses": [
+                    {
+                        "verse": 18,
+                        "text": "¶ VIEŠPATS [yra] lėtas pykti ir kupinas gailestingumo, atleidžiantis blogadarybę ir nusižengimą, bet jokiu būdu neatleisdamas [kaltojo] nuo atsakomybės, vaikams paskiriantis tėvų blogadarybės aplankymą – trečiajai ir ketvirtajai [kartai]."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 15,
+                "verses": [
+                    {
+                        "verse": 37,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 38,
+                        "text": "„Kalbėk Izraelio vaikams ir jiems įsakyk, kad jie per [visas] savo kartas pasidarytų kutus prie savo drabužių kampų, ir kad jie pridėtų mėlyną virvelę prie kampinių kutų."
+                    },
+                    {
+                        "verse": 39,
+                        "text": "Mat turite turėti kutą, kad matydami jį atmintumėte visus VIEŠPATIES įsakymus ir juos vykdytumėte, ir kad nebūtumėte vedami pagal savo širdį ir savo akis, pagal kurias linkstate vykdyti paleistuvingus norus,"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 18,
+                "verses": [
+                    {
+                        "verse": 20,
+                        "text": "¶ Ir VIEŠPATS kalbėjo Aaronui: „Jų šalyje neturėsi veldinio nei turėsi dalies tarp jų: aš [esu] tavo dalis ir tavo veldinys tarp Izraelio vaikų."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 20,
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "¶ Ir pirmąjį mėnesį Izraelio vaikai – visas susirinkimas – atvyko į Cino dykumą, ir tauta apsistojo Kadeše. Ten ir mirė Mirjama, ir ten [ji] buvo palaidota."
+                    },
+                    {
+                        "verse": 2,
+                        "text": "Ir susirinkimui nebuvo vandens; tad jie susirinko prieš Mozę ir prieš Aaroną."
+                    },
+                    {
+                        "verse": 3,
+                        "text": "Ir tauta vaidijosi su Moze ir kalbėjo, sakydami: „Verčiau būtume žuvę, kai mūsų broliai žuvo VIEŠPATIES akivaizdoje!"
+                    },
+                    {
+                        "verse": 4,
+                        "text": "Ir kodėl atvedėte VIEŠPATIES susirinkimą aukštyn į šią dykumą, kad mes ir mūsų gyvuliai čia mirtume?"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir kodėl mus atkėlėte aukštyn iš Egipto, kad mus atvestumėte į šitą blogą vietą? Šita nėra nei sėklų, nei figmedžių, nei vynmedžių, nei granatmedžių vieta; ir nėra nė vandens atsigerti!"
+                    },
+                    {
+                        "verse": 6,
+                        "text": "Tada Mozė ir Aaronas nuėjo nuo susirinkimo akivaizdos prie susitikimo palapinės įėjimo ir parpuolė veidais žemyn; ir jiems pasirodė VIEŠPATIES šlovė;"
+                    },
+                    {
+                        "verse": 7,
+                        "text": "ir VIEŠPATS kalbėjo Mozei, sakydamas:"
+                    },
+                    {
+                        "verse": 8,
+                        "text": "„Paimk lazdą ir surink susirinkimą, tu ir tavo brolis Aaronas, ir kalbėkite uolai jų akyse; ir ji išleis savo vandenį, ir tu jiems išgausi vandens iš uolos; taip pagirdysi susirinkimą ir jų gyvulius.“"
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Ir Mozė paėmė lazdą iš VIEŠPATIES akivaizdos, kaip jis buvo jam įsakęs."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Ir Mozė ir Aaronas surinko susirinkimą priešais uolą, ir jis jiems tarė: „ Prašau klausykite, jūs maištininkai! Ar mes turime iš šitos uolos jums išgauti vandens?“"
+                    },
+                    {
+                        "verse": 11,
+                        "text": "Ir Mozė pakėlė savo ranką ir du kartus smogė savo lazda į uolą; tada išsiliejo daug vandens, ir gėrė susirinkimas ir jų gyvuliai."
+                    },
+                    {
+                        "verse": 12,
+                        "text": "Ir VIEŠPATS tarė Mozei ir Aaronui: „Kadangi nepasitikėjote manimi, kad laikytumėte mane šventu Izraelio vaikų akyse, todėl neįvesite šito susirinkimo į šalį, kurią jiems daviau."
+                    },
+                    {
+                        "verse": 13,
+                        "text": "Tai Meribos vandenys, nes Izraelio vaikai vaidijosi su VIEŠPAČIU, o jis palaikė savo šventumą jų tarpe."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 21,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir VIEŠPATS siuntė ugningas gyvates tarp žmonių ir jos gėlė žmones ir daug Izraelio žmonių mirė."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Todėl žmonės atėjo pas Mozę ir tarė: „Mes nusidėjome, nes kalbėjome prieš VIEŠPATĮ ir prieš tave. Melskis VIEŠPAČIUI, kad jis pašalintų nuo mūsų gyvates! Tad Mozė meldėsi už žmones."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "VIEŠPATS tarė Mozei: „Pasidirbk ugningą [gyvatę] ir pritaisyk ją prie karties. Ir įvyks [šitaip]: bet kuris įgeltasis, kai jis įbes akis į ją, gyvuos."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Ir Mozė padarė bronzinę / žalvarinę gyvatę ir pritaisė ją prie karties, ir įvyko, kad, jei gyvatė ką įgėlė ir tas įbedė akis į bronzinę / žalvarinę gyvatę, jis gyvavo."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 23,
+                "verses": [
+                    {
+                        "verse": 19,
+                        "text": "¶ Dievas nėra žmogus, kad meluotų, ir nėra žmogaus sūnus, kad persigalvotų. Ar jis pasakė ir nepadarys? Ar jis kalbėjo ir neįvykdys?"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 25,
+                "verses": [
+                    {
+                        "verse": 12,
+                        "text": "¶ Todėl pasakyk: „Aš suteikiu jam taikos sandorą."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 32,
+                "verses": [
+                    {
+                        "verse": 23,
+                        "text": "¶ Bet jeigu taip nedarysite, štai jūs būsite nusidėję VIEŠPAČIUI, ir galite būti tikri, kad jūsų nuodėmė jus pagaus."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_code": "DEU",
+        "book_name": "Pakartotas Įstatymas",
+        "category": "Eski Ahit",
+        "language": "lt",
+        "chapters": [
+            {
+                "chapter_number": 1,
+                "verses": [
+                    {
+                        "verse": 17,
+                        "text": "Teisdami nebūkite šališki: išklausykite tiek varguolį, tiek ir didžiūną. Nė vieno nebijokite, nes toks teismas [yra] Dievo. O reikalą, kuris jums per sunkus, perduokite man, ir aš jį išklausysiu."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 4,
+                "verses": [
+                    {
+                        "verse": 29,
+                        "text": "¶ Bet jeigu iš ten ieškosi VIEŠPATIES, savo Dievo, tu [jį] surasi, jeigu ieškosi jo visa savo širdimi ir visa savo siela."
+                    },
+                    {
+                        "verse": 40,
+                        "text": "Todėl laikykis jo nuostatų ir jo įsakymų, kuriuos tau šią dieną įsakau, kad gerai sektųsi tau ir tavo vaikams po tavęs ir kad prailgintum [savo] dienas žemėje, kurią VIEŠPATS, tavo Dievas, tau duoda amžiams."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 5,
+                "verses": [
+                    {
+                        "verse": 8,
+                        "text": "¶ Nedaryk sau [jokio] raižybos kūrinio [nei] jokio atvaizdo to, kas [yra] aukštai danguje, ar kas žemai žemėje, ar kas vandenyje po žeme;"
+                    },
+                    {
+                        "verse": 9,
+                        "text": "nesilenk jiems nei tarnauk jiems; nes aš VIEŠPATS, tavo Dievas, [esu] pavydus Dievas, lankantis tėvų blogadarybes ant vaikų iki trečios ir ketvirtos [kartos] tų, kurie manęs nekenčia;"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "ir rodantis gailestingumą tūkstančiams tų, kurie mane myli ir laikosi mano įsakymų."
+                    },
+                    {
+                        "verse": 24,
+                        "text": "ir sakėte: „Štai VIEŠPATS, mūsų Dievas, mums parodė savo šlovę ir savo didybę, ir girdėjome jo balsą iš ugnies vidaus. Šiandien pamatėme, kad gali Dievas kalbėti su žmogumi ir tas likti gyvas."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 6,
+                "verses": [
+                    {
+                        "verse": 4,
+                        "text": "¶ Klausyk, o Izraeli: VIEŠPATS, mūsų Dievas, [yra] vienas VIEŠPATS;"
+                    },
+                    {
+                        "verse": 5,
+                        "text": "Ir mylėk VIEŠPATĮ, savo Dievą, visa savo širdimi, visa savo siela ir visomis savo jėgomis."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "ir uoliai mokyk jų savo vaikus ir apie juos kalbėk, kai sėdi savo namuose ir kai eini keliu ir kai atsiguli ir kai atsikeli."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir pririšk juos kaip ženklą sau ant rankos, ir jie bus kaip galvaraištis tarp tavo akių."
+                    },
+                    {
+                        "verse": 9,
+                        "text": "Ir užrašyk juos ant savo namo durų staktų ir ant savo vartų."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 7,
+                "verses": [
+                    {
+                        "verse": 9,
+                        "text": "¶ Taigi žinok, kad VIEŠPATS, tavo Dievas, jis [yra] Dievas, ištikimas Dievas, kuris laikosi sandoros ir gailestingumo iki tūkstančio kartų tiems, kurie jį myli ir laikosi jo įsakymų,"
+                    },
+                    {
+                        "verse": 10,
+                        "text": "ir [tiesiai] jiems į veidą atlygina tiems, kurie jo nekenčia, pražudydamas juos; jis nedels su tuo, kuris jo nekenčia – jis jam [tiesiai] į veidą atlygins."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 8,
+                "verses": [
+                    {
+                        "verse": 5,
+                        "text": "¶ Taigi žinok savo širdyje, kad, kaip žmogus drausmina savo sūnų, taip VIEŠPATS, tavo Dievas, drausmina tave."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Nes VIEŠPATS, tavo Dievas, tave įveda į gerą šalį, į šalį vandens upelių, versmių ir požeminių srovių, išsiveržiančių slėniuose ir kalnuose;"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 10,
+                "verses": [
+                    {
+                        "verse": 12,
+                        "text": "¶ O dabar, Izraeli, ko gi reikalauja iš tavęs VIEŠPATS, tavo Dievas, jei ne vien tai, kad bijotum VIEŠPATIES, savo Dievo, vaikščiotum visais jo keliais, mylėtum jį ir tarnautum VIEŠPAČIUI, savo Dievui, visa savo širdimi ir visa savo siela,"
+                    },
+                    {
+                        "verse": 13,
+                        "text": "laikytumeisi VIEŠPATIES įsakymų ir jo nuostatų, kuriuos šią dieną pats tau įsakau tavo labui?"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "Todėl apipjaustykite savo širdies prieodę ir nebebūkite kietasprandžiai,"
+                    },
+                    {
+                        "verse": 17,
+                        "text": "nes VIEŠPATS, jūsų Dievas, [yra] dievų Dievas ir viešpačių Viešpats, didis Dievas, galingas ir baimę keliantis, kuris nesielgia šališkai, nei ima kyšių,"
+                    },
+                    {
+                        "verse": 18,
+                        "text": "kuris vykdo teisingumą našlaičių ir našlių labui, kuris myli svetimšalį, duodamas jam maisto ir drabužių."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Jis [yra] tavo gyrius ir jis [yra] tavo Dievas, kuris tau padarė šiuos didelius ir baimę keliančius dalykus, kuriuos matė tavo akys."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 11,
+                "verses": [
+                    {
+                        "verse": 13,
+                        "text": "¶ [Taip] įvyks: jei tikrai klausysite mano įsakymų, kuriuos jums šią dieną įsakau, [būtent] mylėti VIEŠPATĮ, savo Dievą, ir jam tarnauti visa savo širdimi ir visa savo siela,"
+                    },
+                    {
+                        "verse": 14,
+                        "text": "tai duosiu jūsų šaliai lietaus laiku, ankstyvojo lietaus ir vėlyvojo lietaus, ir suvalysi savo javus, savo vyną ir savo aliejų."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "¶ Todėl įsidėkite šiuos mano žodžius į savo širdį ir į savo sielą, ir juos pririškite sau kaip ženklą ant rankos, ir jie tebūna kaip galvaraištis tarp jūsų akių."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 12,
+                "verses": [
+                    {
+                        "verse": 7,
+                        "text": "¶ ir ten valgykite VIEŠPATIES, savo Dievo, akivaizdoje ir džiaukitės jūs ir jūsų šeimynos kiekvienu jūsų rankos ištiesimu, kuriuo VIEŠPATS, tavo Dievas, palaimino tave."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 13,
+                "verses": [
+                    {
+                        "verse": 4,
+                        "text": "¶ Sekite paskui VIEŠPATĮ, savo Dievą, ir bijokite jo, ir laikykitės jo įsakymų, ir klausykite jo balso, ir tarnaukite jam, ir tvirtai laikykitės prie jo."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 14,
+                "verses": [
+                    {
+                        "verse": 26,
+                        "text": "¶ ir išleisi tuos pinigus pirkdamas ko tik geidžia tavo siela: jaučių, ar mažųjų gyvulių, ar vyno, ar stipraus gėrimo, ar ko tik trokšta tavo siela. Ir ten VIEŠPATIES, savo Dievo, akivaizdoje, valgyk ir džiaukis tu ir tavo namiškiai."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 15,
+                "verses": [
+                    {
+                        "verse": 11,
+                        "text": "¶ Kadangi vargšai niekada nepradings iš šalies, todėl įsakau aš tau, sakydamas: „Plačiai atverk ranką savo broliui, savo skurdžiui ir vargšui savo šalyje."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 16,
+                "verses": [
+                    {
+                        "verse": 21,
+                        "text": "¶ Nestatyk sau jokio dievukstulpio medžio šalia VIEŠPATIES, tavo Dievo, aukuro, kurį pasidarysi."
+                    },
+                    {
+                        "verse": 22,
+                        "text": "Ir neiškelk sau [jokio] akmeninio stulpo – jų nekenčia VIEŠPATS, jūsų Dievas."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 17,
+                "verses": [
+                    {
+                        "verse": 17,
+                        "text": "¶ Taip pat jam neleidžiama dauginti sau žmonų, kad nenukryptų jo širdis, ir jam neleidžiama apsčiai dauginti sau sidabro bei aukso."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 18,
+                "verses": [
+                    {
+                        "verse": 15,
+                        "text": "¶ VIEŠPATS, tavo Dievas, tau prikels iš tavo tarpo, iš tavo brolių, Pranašą, tokį, kaip aš; jo privalote klausyti,"
+                    },
+                    {
+                        "verse": 16,
+                        "text": "[elgdamasis] pagal visa tai, ko prašei VIEŠPATIES, savo Dievo, Horebe susirinkimo dieną, sakydamas: „Leisk man daugiau nebegirdėti VIEŠPATIES, savo Dievo, balso ir daugiau nebematyti tos didžios ugnies, kad nemirčiau!"
+                    },
+                    {
+                        "verse": 17,
+                        "text": "Tada VIEŠPATS man tarė: „Taip kalbėdami, jie gerai padarė."
+                    },
+                    {
+                        "verse": 18,
+                        "text": "Jiems prikelsiu iš jų brolių tarpo Pranašą, tokį, kaip tu ir įdėsiu savo žodžius į jo burną ir jis jiems kalbės viską, ką jam įsakysiu."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Ir įvyks [šitaip]: žmogus, kuris neklausys mano žodžių, kuriuos jis kalbės mano vardu, aš pats reikalausiu iš to [už tai] atsakyti."
+                    },
+                    {
+                        "verse": 20,
+                        "text": "Bet pranašas, kuris elgsis įžūliai, kalbėdamas mano vardu žodį, kurio kalbėti nesu jam įsakęs, ar kuris kalbės kitų dievų vardu, tas pranašas turi mirti!"
+                    },
+                    {
+                        "verse": 21,
+                        "text": "O jeigu sakysi savo širdyje: „Kaip mes atpažinsime žodį, kurio VIEŠPATS nekalbėjo?“ – [štai kaip:]"
+                    },
+                    {
+                        "verse": 22,
+                        "text": "kai pranašas kalba VIEŠPATIES vardu, o tas dalykas neatsitinka ir neįvyksta, tai [yra] dalykas, kurio VIEŠPATS nekalbėjo. Pranašas kalbėjo tai įžūliai. Jo nebijok!"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 19,
+                "verses": [
+                    {
+                        "verse": 15,
+                        "text": "¶ Vienintelio liudytojo [parodymais] neturi būti patvirtintas [reikalas] prieš žmogų dėl kokio nors nusikaltimo ar kokios nors nuodėmės bet kokiame nusidėjime, kuriuo jis nusidėjo: reikalas turi būti patvirtintas dviejų liudytojų burnų parodymais ar trijų liudytojų burnų parodymais."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 20,
+                "verses": [
+                    {
+                        "verse": 4,
+                        "text": "¶ nes VIEŠPATS, jūsų Dievas, [yra] tas, kuris eina su jumis kovoti už jus prieš jūsų priešus, kad jus išgelbėtų."
+                    },
+                    {
+                        "verse": 7,
+                        "text": "Ar [yra] vyras, kuris įsipareigojo imti moterį į žmonas, bet [dar] jos nevedė? Tas tegul eina ir grįžta į savo namus, kad nežūtų mūšyje ir kitas vyras jos nevestų."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 22,
+                "verses": [
+                    {
+                        "verse": 5,
+                        "text": "¶ Vyro drabužis neturi būti moters dėvimas, ir vyrui neleidžiama vilkėti moters apdaro, nes visi, kurie taip daro, [yra] pasibjaurėjimas VIEŠPAČIUI, tavo Dievui."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 24,
+                "verses": [
+                    {
+                        "verse": 5,
+                        "text": "¶ Kai vyras bus ką tik vedęs žmoną, jis neturi išeiti į karą, ir neturi būti įpareigotas jokiu reikalu; vienerius metus jis turi būti laisvas namuose, kad džiugintų savo žmoną, kurią yra paėmęs [į žmonas]."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 29,
+                "verses": [
+                    {
+                        "verse": 29,
+                        "text": "¶ Paslėpti [dalykai] [priklauso] VIEŠPAČIUI, mūsų Dievui, bet apreikšti [dalykai priklauso] mums ir mūsų vaikams per amžius, kad vykdytume visus šio įstatymo žodžius."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 30,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "¶ Ir VIEŠPATS, tavo Dievas, apipjaustys tavo širdį ir tavo palikuonių širdį, jog mylėtum VIEŠPATĮ, savo Dievą, visa savo širdimi ir visa savo siela, kad gyventum."
+                    },
+                    {
+                        "verse": 19,
+                        "text": "Šiandien šaukiu liudytojais prieš jus dangų ir žemę: padėjau prieš tave gyvenimą ir mirtį, palaiminimą ir prakeikimą. Taigi rinkis gyvenimą, kad būtum gyvas tu (ir tavo palikuonys),"
+                    },
+                    {
+                        "verse": 20,
+                        "text": "kad mylėtum VIEŠPATĮ, savo Dievą, klausytum jo balso ir glaustumeis prie jo (nes jis [yra] tavo gyvenimas ir tavo dienų ilgumas), kad gyventum žemėje, kurią VIEŠPATS prisiekė duoti tavo tėvams Abraomui, Izaokui ir Jokūbui."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 31,
+                "verses": [
+                    {
+                        "verse": 6,
+                        "text": "¶ Būkite stiprūs ir drąsūs! Nebijokite ir neišsigąskite jų, nes VIEŠPATS, tavo Dievas, [yra] tas, kuris eina su tavimi! Jis nenustos palaikyti tavęs ir nepasitrauks nuo tavęs."
+                    },
+                    {
+                        "verse": 8,
+                        "text": "Ir VIEŠPATS [yra] tas, kuris eina pirma tavęs. Jis bus su tavimi, jis nenustos palaikyti tavęs ir nepasitrauks nuo tavęs. Nebijok ir nenusigąsk!"
+                    }
+                ]
+            },
+            {
+                "chapter_number": 32,
+                "verses": [
+                    {
+                        "verse": 4,
+                        "text": "¶ [Jis yra] Uola. Tobulas jo darbas, nes visi jo keliai teisingi – ištikimas Dievas ir be neteisybės, jis teisingas ir tiesus."
+                    },
+                    {
+                        "verse": 10,
+                        "text": "Jis rado jį dykumos šalyje kaukiančioje tyrlaukio dykynėje, apglėbė jį, mokė jį, saugojo jį kaip savo akies vyzdį."
+                    },
+                    {
+                        "verse": 21,
+                        "text": "Jie sukėlė mano pavydą [tuo, kas] ne Dievas; jie pykdė mane savo tuštybėmis; tai aš sukelsiu jų pavydą per netautą, aš pykdysiu juos per kvailą tautą."
+                    },
+                    {
+                        "verse": 29,
+                        "text": "O, kad jie būtų išmintingi, [kad] suprastų tai, [kad] jie įžvelgtų, koks bus jų galas!"
+                    },
+                    {
+                        "verse": 35,
+                        "text": "Atkeršijimas ir atmokėjimas [yra] mano – jų koja paslys [tinkamu] laiku, nes jų didžiulės nelaimės diena [yra] arti, ir atskuba tai, kas juos ištiks."
+                    }
+                ]
+            },
+            {
+                "chapter_number": 33,
+                "verses": [
+                    {
+                        "verse": 25,
+                        "text": "¶ Geležiniai ir žalvariniai [bus] tavo užraktai, o tavo stiprybė atitiks tavo dienas."
+                    },
+                    {
+                        "verse": 27,
+                        "text": "Amžinasis Dievas [yra tavo] prieglauda ir po [tavimi] – amžinos rankos. Jis nuvarys priešą nuo tavęs ir palieps: „Pražudyk [juos]!“"
+                    }
+                ]
+            }
+        ]
+    }
+]
